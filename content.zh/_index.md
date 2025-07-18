@@ -89,7 +89,9 @@ type: docs
 | 年度畅享   | 10usdt | 1 年  | 8 国快速节点     |
 | 软件下载 | 免费   | 1  | shadowrocket下载    |
 
-联系我：leeulen60@gmail.com
+付款地址：0x8d4744a8d6d617634d054edf9031bb5d77f2fd4b 网络选择：Arbitrum One
+截图付款成功页面，给我发邮件：leeulen60@gmail.com
+收到邮件以后，我把vpn节点发送给你
 
 *（也可按需定制 / 提供家庭、公司共享套餐）*
 

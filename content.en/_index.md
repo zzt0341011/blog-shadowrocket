@@ -87,7 +87,9 @@ Examples: TestFlight / Apple Configurator tools for enterprise or lightweight ve
 | Yearly      | 10 USDT | 1 Year   | 8-country fast nodes |
 | App Download | Free   | 1        | Shadowrocket download |
 
-Contact me: leeulen60@gmail.com  
+Payment address: 0x8d4744a8d6d617634d054edf9031bb5d77f2fd4b Network selection: Arbitrum One
+Take a screenshot of the payment success page and send me an email: leeulen60@gmail.com
+After receiving the email, I will send you the VPN node
 *Custom plans available / Family & Corporate sharing plans offered*
 
 ---
