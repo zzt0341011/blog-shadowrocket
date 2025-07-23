@@ -36,7 +36,7 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Buy Node For 10$"
+  name = "8国节点购买"
   url = "https://bnb.lat/buy/3"
   weight = 20
 [params]
