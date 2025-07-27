@@ -120,8 +120,6 @@ type: docs
 ## ✉️ 联系方式 & 获取方式
 
 📮 方式一：联系我：leeulen60@gmail.com 获取【免费试用节点】
-📱 方式二：添加客服微信 / Telegram 获取详细配置指导
-📦 方式三：联系我：leeulen60@gmail.com  获取套餐与教程
 
 ---
 
