@@ -16,6 +16,8 @@ type: docs
 
 如果你也遇到这些困扰，那你**绝对需要了解 Shadowrocket + 高速稳定 VPN 节点**！
 
+![shadowrocket11001.jpg](https://shadowrocket.ink/img/shadowrocket11001.jpg)
+
 
 
 ## 🌐 什么是 Shadowrocket？
