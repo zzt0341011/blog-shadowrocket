@@ -14,6 +14,8 @@ In today’s fast-paced digital world, the internet is an essential part of lear
 
 If these sound familiar, you **definitely need to know about Shadowrocket + high-speed VPN nodes**!
 
+![shadowrocket11001.jpg](https://shadowrocket.ink/img/shadowrocket11001.jpg)
+
 
 
 ## 🌐 What Is Shadowrocket?
@@ -53,15 +55,14 @@ We offer **ultra-stable, high-speed VPN nodes**, optimized for users across main
 
 | Name | Price | Notes         |
 |------|-------|---------------|
-| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0)      | ¥15  | 130GB, no time limit |
-| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f) | ¥55  | 600GB, no time limit |
+| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0)      | 2usdt  | 130GB, no time limit |
+| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f) | 7usdt  | 600GB, no time limit |
 | [Xingoogle](https://xingoogle0.cc/auth/register?code=in46IT) | ¥20  | 360GB, 6 months      |
-| [Pangolin](https://af001.affcsj.com/#/register?code=kfW7nuyP) | ¥50  | 30GB/month, 1 year   |
 | [FlashCat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | ¥98  | 30GB/month, 1 year   |
 | [TubaShu](https://tuboshu.io/auth/register?code=6ulsZW)     | ¥500 | 5700GB/year          |
 | [WJKC](https://wjkc66.vip?c=REZUOC)                         | ¥7   | Unlimited time       |
 | [ParkerCloud](https://jump.923ka.com/#login?code=Ax6eLJs9)  | ¥36  | Unlimited time       |
-| [DirectLink](https://bnb.lat/buy/3)                         | ¥37  | Unlimited data/year  |
+| [DirectLink](https://bnb.lat/buy/3)                         | 5usdt  | Unlimited data/year  |
 
 **Contact: leeulen60@gmail.com**
 
@@ -144,4 +145,4 @@ Whether for work, study, or entertainment—we’ve got you covered.
 
 > 🎉 Connect to a free and open internet today—starting with a secure and stable node!
 
-[How to download and use Shadowrocket on iPhone](https://shadowrocket.ink/zh/docs/example/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8shadowrocket-%E5%B0%8F%E7%81%AB%E7%AE%AD/)
+[How to download and use Shadowrocket on iPhone](https://shadowrocket.ink/docs/example/How-to-download-and-use-Shadowrocket-on-an-iPhone/)

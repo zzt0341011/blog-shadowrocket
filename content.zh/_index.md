@@ -58,12 +58,11 @@ type: docs
 | [魔戒](https://www.mojie.me/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
 | [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时   |
 | [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)    | 20元半年     | 360G       |
-| [穿山甲](https://af001.affcsj.com/#/register?code=kfW7nuyP)    | 50元一年     | 每月30G   |
 | [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 98元一年     | 每月30G       |
 | [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)    | 500元     | 5700G每年       |
 | [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 不限时间       |
 | [帕克云](https://jump.923ka.com/#login?code=Ax6eLJs9)    | 36元     | 不限时间       |
-| [直连](https://bnb.lat/buy/3)    | 37元一年     | 不限流量       |
+| [直连](https://bnb.lat/buy/3)    | 5usdt一年     | 不限流量       |
 
 ### leeulen60@gmail.com
 

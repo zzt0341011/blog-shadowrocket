@@ -45,3 +45,16 @@ Shadowrocket is used for proxy browsing, so many users buy access to proxy servi
 4. Use that Apple ID to log into the App Store. You can now download Shadowrocket.
 
 
+## VPN Service Recommendations
+
+| Name | Price | Notes         |
+|------|-------|---------------|
+| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0)      | ¥15  | 130GB, no time limit |
+| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f) | ¥55  | 600GB, no time limit |
+| [Xingoogle](https://xingoogle0.cc/auth/register?code=in46IT) | ¥20  | 360GB, 6 months      |
+| [FlashCat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | ¥98  | 30GB/month, 1 year   |
+| [TubaShu](https://tuboshu.io/auth/register?code=6ulsZW)     | ¥500 | 5700GB/year          |
+| [WJKC](https://wjkc66.vip?c=REZUOC)                         | ¥7   | Unlimited time       |
+| [ParkerCloud](https://jump.923ka.com/#login?code=Ax6eLJs9)  | ¥36  | Unlimited time       |
+| [DirectLink](https://bnb.lat/buy/3)                         | ¥37  | Unlimited data/year  |
+

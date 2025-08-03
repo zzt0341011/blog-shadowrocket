@@ -48,4 +48,17 @@
 
 4. Получив Apple ID, войдите в App Store и скачайте Shadowrocket (小火箭) напрямую.
 
+## Рекомендуемые провайдеры
+
+| Название сервиса                                              | Цена         | Примечание                        |
+| ------------------------------------------------------------- | ------------ | --------------------------------- |
+| [魔戒](https://www.mojie.me/#/register?code=BpCuERz0)           | ¥15          | 130ГБ, без ограничения по времени |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)       | ¥55          | 600ГБ, без срока годности         |
+| [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)        | ¥20 / 6 мес. | 360ГБ                             |
+| [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | ¥98 / год    | 30ГБ в месяц                      |
+| [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)           | ¥500 / год   | 5700ГБ                            |
+| [网际快车](https://wjkc66.vip?c=REZUOC)                           | ¥7           | Без лимита по времени             |
+| [帕克云](https://jump.923ka.com/#login?code=Ax6eLJs9)            | ¥36          | Безлимит                          |
+| [直连](https://bnb.lat/buy/3)                                   | 5usdt / год    | Безлимитный трафик                |
+
 
