@@ -36,9 +36,14 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "19元-机场1000G"
+  name = "19元1000G不限时"
   url = "https://xn--mes358aby2apfg.com/register?code=OufF6cCL"
   weight = 20
+  name = "15元1000G不限时"
+  url = "https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv"
+  weight = 20
+
+
 [params]
 # 黑暗模式
   BookTheme = 'dark'
