@@ -33,17 +33,18 @@
 
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
 
-## Рекомендуемые VPN-сервисы (Аэропорты)
+## Рекомендуемые прокси-провайдеры
 
-| Название | Цена | Примечание          |
-|----------|------|---------------------|
-| [Мо Цзе (Кольцо)](https://www.mojie.me/#/register?code=BpCuERz0) | 15 юаней | 130 ГБ, без ограничения по времени |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)  | 55 юаней | 600 ГБ, без ограничения по времени |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)  | 20 юаней / 6 месяцев | 360 ГБ |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | 98 юаней / год | 30 ГБ в месяц |
-| [Суслик](https://tuboshu.io/auth/register?code=6ulsZW)         | 500 юаней | 5700 ГБ в год |
-| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC)                | 7 юаней | Без ограничения по времени |
-| [Parker Cloud](https://jump.923ka.com/#login?code=Ax6eLJs9)    | 36 юаней | Без ограничения по времени |
-| [Прямое соединение](https://bnb.lat/buy/3)                     | 5 USDT / год | Неограниченный трафик |
+| Поставщик услуг | Цена | Примечания |
+|---|---|---|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
+| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
+| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)                         | 2 USDT   | 130G, без ограничений по времени |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
+| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
+| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
+| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
+| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
 
-### Контакт: leeulen60@gmail.com
+* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)

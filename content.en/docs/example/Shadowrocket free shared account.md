@@ -33,17 +33,24 @@ When people try to download **Shadowrocket**, they often face difficulties becau
 
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
 
-## Recommended Proxy Services (Airports)
 
-| Provider | Price | Notes |
-|----------|-------|-------|
-| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0) | ¥15 | 130GB, no time limit |
-| [Baobei Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | ¥55 | 600GB, no time limit |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT) | ¥20 for 6 months | 360GB total |
-| [Flash Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | ¥98/year | 30GB per month |
-| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW) | ¥500/year | 5700GB per year |
-| [Net Express](https://wjkc66.vip?c=REZUOC) | ¥7 | No time limit |
-| [Parker Cloud](https://jump.923ka.com/#login?code=Ax6eLJs9) | ¥36 | No time limit |
-| [Direct Link](https://bnb.lat/buy/3) | $5 USDT/year | Unlimited traffic |
+## Recommended Proxy Providers
 
-### leeulen60@gmail.com
+| Provider Name                                                              | Price  | Notes                 |
+| -------------------------------------------------------------------------- | ------ | --------------------- |
+| [Lord of the Rings](https://www.mojie.me/#/register?code=BpCuERz0)         | 2 USDT    | 130GB, no time limit  |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)              | 2 USDT    | 200GB, no time limit  |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)             | 8 USDT    | 600GB, no time limit  |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80GB, no time limit   |
+| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)              | 3 USDT    | 360GB for 6 months    |
+| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360GB for 1 year      |
+| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW)                  | 70 USDT   | 5700GB per year       |
+| [Internet Express](https://wjkc66.vip?c=REZUOC)                            | 1 USDT     | 20GB, no time limit   |
+| [Awesome](https://6.66jc.top/#/login?code=sT9kLfc6)                        | 2 USDT    | 200GB, no time limit  |
+| [Five Mao](https://www.freebb.me/#/register?code=HNjWYnFT)                 | 3 USDT    | 1000GB, no time limit |
+| [Direct Connect](https://bnb.lat/buy/3)                                    | 5 USDT | Unlimited for 1 year  |
+
+* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+
+
+

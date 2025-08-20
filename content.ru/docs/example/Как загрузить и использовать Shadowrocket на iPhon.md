@@ -48,19 +48,17 @@ Shadowrocket в основном используется для прокси-с
 
 ### Другие VPN-провайдеры, предлагающие общий Apple ID
 
-| Provider Name                                                              | Price  | Notes                 |
-| -------------------------------------------------------------------------- | ------ | --------------------- |
-| [Lord of the Rings](https://www.mojie.me/#/register?code=BpCuERz0)         | 2 USDT    | 130GB, no time limit  |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)              | 2 USDT    | 200GB, no time limit  |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)             | 8 USDT    | 600GB, no time limit  |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80GB, no time limit   |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)              | 3 USDT    | 360GB for 6 months    |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360GB for 1 year      |
-| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW)                  | 70 USDT   | 5700GB per year       |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                            | 1 USDT     | 20GB, no time limit   |
-| [Awesome](https://6.66jc.top/#/login?code=sT9kLfc6)                        | 2 USDT    | 200GB, no time limit  |
-| [Five Mao](https://www.freebb.me/#/register?code=HNjWYnFT)                 | 3 USDT    | 1000GB, no time limit |
-| [Direct Connect](https://bnb.lat/buy/3)                                    | 5 USDT | Unlimited for 1 year  |
+| Поставщик услуг | Цена | Примечания |
+|---|---|---|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
+| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
+| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)                         | 2 USDT   | 130G, без ограничений по времени |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
+| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
+| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
+| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
+| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
 
 ## Другие страницы с общими Apple ID
 

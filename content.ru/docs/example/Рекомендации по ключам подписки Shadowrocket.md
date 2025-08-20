@@ -6,18 +6,17 @@
 
 Сегодня я собрал список доступных и надежных провайдеров, хорошо работающих с Shadowrocket.
 
-| Провайдер                                                     | Цена     | Примечания             |
-| ------------------------------------------------------------- | -------- | ---------------------- |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2 USDT   | 200G, без ограничений  |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE)    | 2 USDT   | 100G, без ограничений  |
-| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)            | 2 USDT   | 130G, без ограничений  |
-| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 1.8 USDT | 60G, без ограничений   |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)        | 7 USDT   | 100G, без ограничений  |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)         | 7 USDT   | 200G, без ограничений  |
-| [Wangji Express](https://wjkc66.vip?c=REZUOC)                 | 1 USDT   | 20G, без ограничений   |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)       | 6.8 USDT | 500G, без ограничений  |
-| [Bytedog](https://user.bytedog.icu/#/register?code=GXPuAhzt)  | 3 USDT   | 80G, без ограничений   |
-| [XLM](https://v2.ixlmo.net/index.php#/register?code=9XuwHmFC) | 3 USDT   | 1200G, действует 1 год |
+| Поставщик услуг | Цена | Примечания |
+|---|---|---|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
+| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
+| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)                         | 2 USDT   | 130G, без ограничений по времени |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
+| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
+| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
+| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
+| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
 
 ---
 
