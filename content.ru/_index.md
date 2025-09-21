@@ -45,21 +45,25 @@ type: docs
 | 🇨🇦 Канада         | Подходит для долгосрочной удалённой работы                   |
 | 🇩🇪 Германия       | Упор на конфиденциальность и анонимность                     |
 
-## Рекомендуемые прокси-провайдеры
+## Рекомендованные сервисы
 
-| Поставщик услуг | Цена | Примечания |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
-| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
-| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)                         | 2 USDT   | 130G, без ограничений по времени |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
+* Следующие провайдеры взимают плату в зависимости от объёма трафика, на их сайтах есть инструкции по установке и использованию.
+* После покупки трафика нет ограничения по времени — можно использовать, пока не закончится трафик.
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+| Название                                                                      | Цена     | Трафик | Кол-во узлов |
+| :---------------------------------------------------------------------------- | :------- | :----- | :----------- |
+| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 юань   | 2G     | 48           |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 юаня | 10G    | 42           |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 юаней  | 20G    | 54           |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 юаней | 100G   | 40           |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 юаней | 200G   | 41           |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100G   | 80           |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 юаней | 600G   | 64           |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 юаней | 100G   | 70           |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 юаней | 512G   | 46           |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 юаней | 280G   | 140          |
+
+
 
 📩 Контакт: [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 

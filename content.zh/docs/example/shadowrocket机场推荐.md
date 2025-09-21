@@ -2,20 +2,30 @@
 
 [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)是苹果手机上使用最广泛的代理软件之一，类似于windows电脑上用的v2rayN，然而，这类代理软件都需要导入vpn节点才能使用，在中文里叫做机场，在英文中叫做订阅密钥，今天我整理了一些，适合在shadowrocket上使用的机场商家，都是比较便宜好用的！
 
-| 机场名称 | 价格 | 备注     |
-|------|----------|--------------|
-| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元     | 200G不限时       |
-| [速达](https://mala.sudatech.store/register?code=3DYnOBtE)    | 15元     | 100G不限时       |
-| [魔戒](https://mojie.ws/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
-| [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 12元     | 60G不限时       |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 38元     | 100G不限时       |
-| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0)    | 37元     | 200G不限时       |
-| [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 20G不限时       |
-| [自由猫](https://us.freecat.cc/register?code=czdF7PXY)    | 50元     | 500G不限时       |
-| [字节狗](https://user.bytedog.icu/#/register?code=GXPuAhzt)    | 21元   | 80G不限时       |
-| [XLM](https://v2.ixlmo.net/index.php#/register?code=9XuwHmFC)    | 22元     | 1200G1年 |
+## 机场推荐
+
+* 以下机场按照流量付费，网站里有软件的使用和安装教程
+* 购买流量以后，不限制时间，流量用完为止
+
+| 名 称 | 价 格 | 流 量 | 节点数 |
+| :--- | :--- | :--- | :--- |
+| [魔戒](https://mojie.kim/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
+| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
+| [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
+| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
+| [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
+| [农夫山泉](https://07.nfsq.us/#/register?code=i1fXTMYk)    | 15元   | 200G |32个|
+| [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40元 | 100G | 70个 |
+| [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
+| [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
+
+- leeulen60@gmail.com
 
 ## 一、农夫山泉
+
+
 
 - 成立时间：2023年5月1日
 - 服务器数量：17

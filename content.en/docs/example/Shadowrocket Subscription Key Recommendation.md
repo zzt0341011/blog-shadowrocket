@@ -5,18 +5,27 @@
 
 Today, I’ve compiled a list of affordable and reliable providers that work well with Shadowrocket.
 
-| Provider                                                      | Price  | Notes                   |
-| ------------------------------------------------------------- | ------ | ----------------------- |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2 USDT | 200G, no time limit     |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE)    | 2 USDT | 100G, no time limit     |
-| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)            | 2 USDT | 130G, no time limit     |
-| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 1.8 USDT | 60G, no time limit      |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)        | 7 USDT | 100G, no time limit     |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)         | 7 USDT | 200G, no time limit     |
-| [Wangji Express](https://wjkc66.vip?c=REZUOC)                 | 1 USDT  | 20G, no time limit      |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)       | 6.8 USDT | 500G, no time limit     |
-| [Bytedog](https://user.bytedog.icu/#/register?code=GXPuAhzt)  | 3 USDT | 80G, no time limit      |
-| [XLM](https://v2.ixlmo.net/index.php#/register?code=9XuwHmFC) | 3 USDT | 1200G, valid for 1 year |
+## Recommended VPN Providers
+
+
+* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
+* After purchasing data, there’s no time limit — you can use it until the data runs out.
+
+| Name                                                                          | Price   | Data | Number of Nodes |
+| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
+| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 RMB  | 200G | 41              |
+| [Nong Fu](https://07.nfsq.us/#/register?code=i1fXTMYk)        | 15 RMB  | 200G | 32              |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
+
+* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
 ---
 

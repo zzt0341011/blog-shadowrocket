@@ -51,20 +51,27 @@ We offer **ultra-stable, high-speed VPN nodes**, optimized for users across main
 
 
 
-## VPN Service Recommendations
+## Recommended VPN Providers
 
-| Name | Price | Notes         |
-|------|-------|---------------|
-| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0)      | 2usdt  | 130GB, no time limit |
-| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f) | 7usdt  | 600GB, no time limit |
-| [Xingoogle](https://xingoogle0.cc/auth/register?code=in46IT) | ¥20  | 360GB, 6 months      |
-| [FlashCat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | ¥98  | 30GB/month, 1 year   |
-| [TubaShu](https://tuboshu.io/auth/register?code=6ulsZW)     | ¥500 | 5700GB/year          |
-| [WJKC](https://wjkc66.vip?c=REZUOC)                         | ¥7   | Unlimited time       |
-| [ParkerCloud](https://jump.923ka.com/#login?code=Ax6eLJs9)  | ¥36  | Unlimited time       |
-| [DirectLink](https://bnb.lat/buy/3)                         | 5usdt  | Unlimited data/year  |
 
-**Contact: leeulen60@gmail.com**
+* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
+* After purchasing data, there’s no time limit — you can use it until the data runs out.
+
+| Name                                                                          | Price   | Data | Number of Nodes |
+| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
+| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 RMB  | 200G | 41              |
+| [Nong Fu](https://07.nfsq.us/#/register?code=i1fXTMYk)        | 15 RMB  | 200G | 32              |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
+
+* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
 
 

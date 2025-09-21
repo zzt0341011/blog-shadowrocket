@@ -34,21 +34,25 @@ When people try to download **Shadowrocket**, they often face difficulties becau
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
 
 
-## Recommended Proxy Providers
+## Recommended VPN Providers
 
-| Provider Name                                                              | Price  | Notes                 |
-| -------------------------------------------------------------------------- | ------ | --------------------- |
-| [Lord of the Rings](https://www.mojie.me/#/register?code=BpCuERz0)         | 2 USDT    | 130GB, no time limit  |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)              | 2 USDT    | 200GB, no time limit  |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)             | 8 USDT    | 600GB, no time limit  |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80GB, no time limit   |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)              | 3 USDT    | 360GB for 6 months    |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360GB for 1 year      |
-| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW)                  | 70 USDT   | 5700GB per year       |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                            | 1 USDT     | 20GB, no time limit   |
-| [Awesome](https://6.66jc.top/#/login?code=sT9kLfc6)                        | 2 USDT    | 200GB, no time limit  |
-| [Five Mao](https://www.freebb.me/#/register?code=HNjWYnFT)                 | 3 USDT    | 1000GB, no time limit |
-| [Direct Connect](https://bnb.lat/buy/3)                                    | 5 USDT | Unlimited for 1 year  |
+
+* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
+* After purchasing data, there’s no time limit — you can use it until the data runs out.
+
+| Name                                                                          | Price   | Data | Number of Nodes |
+| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
+| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 RMB  | 200G | 41              |
+| [Nong Fu](https://07.nfsq.us/#/register?code=i1fXTMYk)        | 15 RMB  | 200G | 32              |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
