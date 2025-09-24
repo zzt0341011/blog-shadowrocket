@@ -116,7 +116,7 @@
 - 价格：37元，200G，不限制时间
 - v2rayN节点延时测试，延时还是很不错的
 
-![皮卡丘.jpg](https://shadowrocket.ink/img/皮卡丘1.jpg)
+![皮卡丘.jpg](https://shadowrocket.ink/img/皮卡丘.jpg)
 
 - youtube视频16k测试
 - 可以看到，使用香港节点，16k视频跑满19万，速度非常快
