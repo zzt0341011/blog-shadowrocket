@@ -42,7 +42,7 @@ When people try to download **Shadowrocket**, they often face difficulties becau
 
 | Name                                                                          | Price   | Data | Number of Nodes |
 | :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
-| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
 | [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
 | [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
 | [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
@@ -54,7 +54,7 @@ When people try to download **Shadowrocket**, they often face difficulties becau
 | [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
 | [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+* leeulen60@gmail.com
 
 
 

@@ -22,7 +22,7 @@ type: docs
 
 ## 🌐 什么是 Shadowrocket？
 
-**Shadowrocket（小火箭）** 是一款功能强大、运行稳定的 iOS 网络代理工具，配合高质量节点使用，可以轻松突破网络限制，实现 **无限制访问全球互联网**。他是同类软件中的佼佼者，类似功能的软件有很多，比如， [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/),[v2box](https://v2box.pro),[v2rayN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BD%BF%E7%94%A8v2rayN%E8%BD%AF%E4%BB%B6/),[mahsang](https://mahsang.pro),[flclash](https://flclash.xyz),[hiddify-next](https://hiddify.me),[stash](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8-stash-VPN/),[sing-box](https://sing-box.info),[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev),[karing](https://karing.biz)等。
+**Shadowrocket（小火箭）** 是一款功能强大、运行稳定的 iOS 网络代理工具，配合高质量节点使用，可以轻松突破网络限制，实现 **无限制访问全球互联网**。他是同类软件中的佼佼者，类似功能的软件有很多，比如， [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/),[v2box](https://v2box.pro),[v2rayN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BD%BF%E7%94%A8v2rayN%E8%BD%AF%E4%BB%B6/),[mahsang](https://mahsang.pro),[flclash](https://flclash.xyz),[hiddify-next](https://hiddify.me),[stash] (https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8-stash-VPN/),[sing-box](https://sing-box.info),[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev),[karing](https://karing.biz)等。
 
 它具备以下特点：
 
@@ -58,7 +58,7 @@ type: docs
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://mojie.kim/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
 | [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |

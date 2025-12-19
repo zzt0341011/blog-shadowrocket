@@ -53,7 +53,7 @@ Shadowrocket в основном используется для прокси-с
 
 | Название                                                                      | Цена     | Трафик | Кол-во узлов |
 | :---------------------------------------------------------------------------- | :------- | :----- | :----------- |
-| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 юань   | 2G     | 48           |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 юань   | 2G     | 48           |
 | [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 юаня | 10G    | 42           |
 | [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 юаней  | 20G    | 54           |
 | [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 юаней | 100G   | 40           |

@@ -51,7 +51,7 @@
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://mojie.kim/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
 | [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |

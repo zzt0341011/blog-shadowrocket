@@ -1,6 +1,6 @@
 ## shadowrocket机场推荐
 
-[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)是苹果手机上使用最广泛的代理软件之一，类似于windows电脑上用的v2rayN，然而，这类代理软件都需要导入vpn节点才能使用，在中文里叫做机场，在英文中叫做订阅密钥，今天我整理了一些，适合在shadowrocket上使用的机场商家，都是比较便宜好用的！
+[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)是苹果手机上使用最广泛的代理软件之一，类似于windows电脑上用的[v2rayN](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%B9%B6%E4%BD%BF%E7%94%A8v2rayN%E8%BD%AF%E4%BB%B6/)，然而，这类代理软件都需要导入vpn节点才能使用，在中文里叫做机场，在英文中叫做订阅密钥，今天我整理了一些，适合在shadowrocket上使用的机场商家，都是比较便宜好用的！
 
 ## 机场推荐
 
@@ -9,8 +9,7 @@
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://mojie.kim/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
-| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
@@ -23,7 +22,80 @@
 
 - leeulen60@gmail.com
 
-## 一、农夫山泉
+## 一、魔戒
+- 成立时间：2018年1月1日，老牌机场
+- 服务器数量：48
+- 地区：日本、新加坡、柬埔寨、美国、香港、台湾、越南、加拿大、德国、英国、澳大利亚、土耳其、朝鲜、意大利、葡萄牙、俄罗斯、哈萨克斯坦、乌克兰、意大利、以色列、阿根廷、尼日利亚、法国
+- 节点类型：vmess、trojan
+- 官方网站：[https://mojie.kim/](https://mojie.ws/#/register?code=BpCuERz0)
+- 价格：15元，130G，不限时间
+- [v2rayN](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayn/)节点延时
+
+![魔戒1.jpg](https://shadowrocket.ink/img/魔戒1.jpg)
+
+
+- 台湾节点看[youtube](https://youtube.com)视频效果，时间2025年8月18日
+- 由于是老牌机场，稳定性可以，但是由于用户多
+- 美国等热门节点比较慢，台湾等冷门节点还可以，视频跑慢7万
+
+![魔戒2.jpg](https://shadowrocket.ink/img/魔戒2.jpg)
+
+## 二、网际快车
+
+- 成立时间：2021年6月，老牌机场
+- 服务器数量：53
+- 地区：香港、新加坡、日本、台湾、韩国、美国、印度、西班牙、澳大利亚、柬埔寨、德国、西班牙、菲律宾、巴西、哈萨克斯坦、匈牙利、泰国、立陶宛、波兰、挪威、土耳其、瑞典、马来西亚、印度尼西亚、埃及、伊拉克、北马其顿、奥地利、新西兰、尼日利亚、法国、意大利、加拿大、冰岛
+- 节点类型：vmess
+- 官方网站：[https://wjkc.lol/](https://wjkc66.vip?c=REZUOC)
+- 价格：6.8元，20G，16元，100G，不限时间
+- v2rayN节点延时测试
+
+![网际快车1.jpg](https://shadowrocket.ink/img/网际快车1.jpg)
+
+- youtube视频测试
+- 日本ip测试跑1万左右，老机场用的人比较多，但是稳定
+
+![网际快车-22.jpg](https://shadowrocket.ink/img/网际快车-22.jpg)
+
+
+## 三、一分
+
+- 成立时间：2023年2月
+- 服务器数量：55
+- 地区：日本、美国堪萨斯、美国洛杉矶、荷兰、新加坡、香港、巴西、日本、台湾、法国巴黎、法国马赛、荷兰阿姆斯特丹、美国圣何塞、英国伦敦、德国法兰克福
+- 节点类型：vless、hysteria2
+- 官方网站：[https://一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)
+- 价格：12元100G不限时，20元1000G不限时
+- v2rayN延时测试
+
+![一分机场1.jpg](../../../_resources/一分机场1.jpg)
+
+- youtube测速，时间2025年11月17日
+- 16k视频，流畅，跑满1万
+
+<video width="640" height="360" controls preload="none">
+    <source src="https://mp4.flclash.xyz/yifen3.mp4" type="video/mp4">
+    您的浏览器不支持 HTML5 视频。
+</video>
+
+## 四、牛逼
+
+![niubi1.jpg](https://flclash.xyz/img/niubi1.jpg)
+
+- 成立时间：2022年6月
+- 服务器数量：53
+- 地区：香港、新加坡、日本、台湾、韩国、美国、曼谷、拉斯维加斯、凤凰城、纽约、加拿大、德国
+- 节点类型：shadowsocks
+- 官方网站：[https://6666b.idsduf.com/](https://6666b.idsduf.com/#/login?code=sT9kLfc6)
+- 价格：50元500G，88元/1680G
+- 测试视频
+
+<video width="640" height="360" controls preload="none">
+    <source src="https://mp4.flclash.xyz/niubi2.mp4" type="video/mp4">
+    您的浏览器不支持 HTML5 视频。
+</video>
+
+## 五、农夫山泉
 
 
 
@@ -42,6 +114,35 @@
 
 ![农夫山泉1.jpg](https://shadowrocket.ink/img/农夫山泉2.jpg)
 
+## 六、飞兔
+
+- 成立时间：2023年9月
+- 服务器数量：80
+- 地区：新加坡、香港、俄罗斯、英国、美国犹他州、荷兰、西班牙、印度、沙特、加拿大多伦多、美国阿什本、美国圣何塞、美国芝加哥、巴西圣保罗、智利、美国洛杉矶、
+- 官方网站：[https://www.飞兔云.site/](https://www.xn--9kq10e0y7h.site/index.html?register=XsX4Tx2U)
+- 价格：30元100G不限时间，60元200G不限时间
+- 延时测试：
+
+![飞兔云1.jpg](../../../_resources/飞兔云1.jpg)
+
+## 七、宝贝云
+
+![baobei1.jpg](https://flclash.xyz/img/baobei1.jpg)
+
+- 成立时间：2017年7月
+- 服务器数量：61
+- 地区：香港、新加坡、日本、韩国、 美国、土耳其、阿根廷、泰国、马来西亚、加拿大、印度、、菲律宾、法国、尼日利亚、缅甸、越南、埃及、澳门、澳大利亚、乌克兰、巴西、柬埔寨、阿联酋、哈萨克斯坦、英国、巴基斯坦
+- 节点类型：shadowsocks、vless、vmess
+- 官方网站：[https://bbyvpn.com/](https://web1.bby011.com/#/register?code=8xTTMr2f)
+- 价格：55元/600G
+- 测试视频
+
+<video width="640" height="360" controls preload="none">
+    <source src="https://mp4.flclash.xyz/baobei2.mp4" type="video/mp4">
+    您的浏览器不支持 HTML5 视频。
+</video>
+
+
 ## 二、速达
 
 - 成立时间：2024年6月17日
@@ -54,23 +155,7 @@
 - 节点延时
 ![速达1.jpg](https://shadowrocket.ink/img/速达1.jpg)
 
-## 三、魔戒
-- 成立时间：2018年1月1日，老牌机场
-- 服务器数量：48
-- 地区：日本、新加坡、柬埔寨、美国、香港、台湾、越南、加拿大、德国、英国、澳大利亚、土耳其、朝鲜、意大利、葡萄牙、俄罗斯、哈萨克斯坦、乌克兰、意大利、以色列、阿根廷、尼日利亚、法国
-- 节点类型：vmess、trojan
-- 官方网站：[https://mojie.kim/](https://mojie.ws/#/register?code=BpCuERz0)
-- 价格：15元，130G，不限时间
-- [v2rayN](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayn/)节点延时
 
-![魔戒1.jpg](https://shadowrocket.ink/img/魔戒1.jpg)
-
-
-- 台湾节点看[youtube](https://youtube.com)视频效果，时间2025年8月18日
-- 由于是老牌机场，稳定性可以，但是由于用户多
-- 美国等热门节点比较慢，台湾等冷门节点还可以，视频跑慢7万
-
-![魔戒2.jpg](https://shadowrocket.ink/img/魔戒2.jpg)
 
 ## 四、星轨
 
@@ -123,22 +208,7 @@
 
 ![皮卡丘2.jpg](https://shadowrocket.ink/img/皮卡丘2.jpg)
 
-## 七、网际快车
 
-- 成立时间：2021年6月，老牌机场
-- 服务器数量：53
-- 地区：香港、新加坡、日本、台湾、韩国、美国、印度、西班牙、澳大利亚、柬埔寨、德国、西班牙、菲律宾、巴西、哈萨克斯坦、匈牙利、泰国、立陶宛、波兰、挪威、土耳其、瑞典、马来西亚、印度尼西亚、埃及、伊拉克、北马其顿、奥地利、新西兰、尼日利亚、法国、意大利、加拿大、冰岛
-- 节点类型：vmess
-- 官方网站：[https://wjkc.lol/](https://wjkc66.vip?c=REZUOC)
-- 价格：6.8元，20G，16元，100G，不限时间
-- v2rayN节点延时测试
-
-![网际快车1.jpg](https://shadowrocket.ink/img/网际快车1.jpg)
-
-- youtube视频测试
-- 日本ip测试跑1万左右，老机场用的人比较多，但是稳定
-
-![网际快车-22.jpg](https://shadowrocket.ink/img/网际快车-22.jpg)
 
 ## 八、自由猫
 
