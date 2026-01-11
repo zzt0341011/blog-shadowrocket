@@ -54,7 +54,7 @@ Shadowrocket в основном используется для прокси-с
 
 | Название | Цена | Трафик | Узлы |
 | :--- | :--- | :--- | :--- |
-| [Североамериканский аэропорт](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000 ГБ | 35 |
+| [Североамериканский аэропорт](https://www.northamericanairport-official-mirror.shop/#/register?code=j2rr2X4T) | 10 CNY | 1000 ГБ | 35 |
 | [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 год | 42 |
 | [Один цент](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 ГБ | 40 |
 | [Крутой аэропорт](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200 ГБ | 41 |
