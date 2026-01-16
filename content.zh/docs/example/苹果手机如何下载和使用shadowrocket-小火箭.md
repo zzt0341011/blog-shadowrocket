@@ -16,30 +16,29 @@
 
 ![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11002.jpg)
 
-### 二、购买机场赠送临时苹果ID
+### 二、购买机场导入节点教程
 
-下载shadowrocket小火箭就是为了进行代理上网，一般会购买机场，而很多机场会提供海外苹果id，让用户下载shadowrocket小火箭更加方便，因为，不用单独购买国外ID，只要购买一个机场，所有的问题就解决了。
+下载shadowrocket小火箭就是为了进行代理上网，一般会购买机场，而很多机场会提供海外苹果id，让用户下载shadowrocket小火箭更加方便，
 
-购买网址：[https://web1.bby011.com/#/register?code=8xTTMr2f](https://web1.bby011.com/#/register?code=8xTTMr2f)
+购买网址：[https://6.66jc.top/#/login?code=sT9kLfc6](https://6.66jc.top/#/login?code=sT9kLfc6)
 
-价格：15元，
+价格：14元/200G
 
 
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/baobei10001.jpg)
+![niubi001.jpg](https://shadowrocket.ink/img/niubi001.jpg)
 
-1、购买完以后，点击使用文档，里面有各个客户端的使用说明，有商家提供的海外shadowrocket小火箭临时账号。
+1、购买完以后，点击使用教程，点击IOS教程点击，里面有商家提供的海外shadowrocket小火箭临时账号。
 
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11004.jpg)
+![niubi002.jpg](https://shadowrocket.ink/img/niubi002.jpg)
 
-2、打开以后，找到自己的系统，比如苹果手机
 
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11005.jpg)
+2、按照教程登录苹果id，下载小火箭，记得一定要退出临时id
 
-3、订阅成功以后，才能看到商家提供的海外苹果id
+![niubi003.jpg](https://shadowrocket.ink/img/niubi003.jpg)
 
-![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11006.jpg)
+4、然后找到我的订阅，复制订阅地址，打开软件，添加订阅链接，即可看到节点
 
-4、获取苹果id以后，就可以登录appstore,然后就可以下载shadowrocket小火箭了。
+![niubi004.jpg](https://shadowrocket.ink/img/niubi004.jpg)
 
 ### 按照图片 下载shadowrocket
 
@@ -52,7 +51,8 @@
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [北美机场](https://www.northamericanairport-official-mirror.shop/#/register?code=j2rr2X4T) | 10元 | 1000G | 35个 |
+| [极速机场](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8元 | 200G | 30个 |
+| [北美机场](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10元 | 1000G | 35个 |
 | [996云](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12元 | 1年 | 42个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
@@ -74,7 +74,28 @@
 
 ## 其他共享id分享页面
 
-网址：[https://aunlock.laomaos.com/share/qGCVyahUfp](https://aunlock.laomaos.com/share/qGCVyahUfp)
+https://appi.lol
+https://idusr.com
+https://ccbaohe.com/appleID
+https://free.mayun.us
+https://best.iwanshare.club
+https://best.iwanshare.club/acc1.html
+https://apple.vwo50.buzz/filter_page.php
+https://xhj.ios999.vip
+https://xhj.ipaxxs.cn
+https://xhj.ipaxxs.cn/xhj2
+https://free.shadowrocket.online
+https://www.lanhaiblog.com/post/3.html
+https://www.fengche666.net/doc/1642
+https://wukongdy15.top
+https://nnntk.com/share/id
+https://nnntk.com/share/app
+https://www.appstore.autos
+https://id.ali-door.top/share/umoKGeJwOa
+https://appstore.autos/share/EzhGxYWHQO/
+https://idshare001.me/chong.html
+https://apple.123445566-ld.net/share/QSM
+https://id.bocchi.vip/
 
 
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/baobei10002.jpg)

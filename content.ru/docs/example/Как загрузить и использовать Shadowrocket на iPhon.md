@@ -1,85 +1,117 @@
+## Как скачать Shadowrocket (Little Rocket)
 
+Многие пользователи не знают, как скачать [Shadowrocket](https://shadowrocket.ink/zh). Основная причина в том, что Shadowrocket требует **Apple ID не из материкового Китая**, поскольку в китайском App Store этого приложения нет. Однако даже при наличии зарубежного Apple ID вы не сможете скачать его напрямую, так как **Shadowrocket — платное приложение**.  
+Например, в американском App Store оно стоит **$2.99**.
 
-## Как скачать Shadowrocket
+![Shadowrocket](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
 
-Многие не знают, как скачать [Shadowrocket](https://shadowrocket.ink/zh), в основном потому, что для этого требуется иностранный Apple ID. Китайские (материковые) Apple ID не позволяют загрузить Shadowrocket. Однако даже при наличии иностранного Apple ID вы не сможете скачать Shadowrocket, если не оплатите его. Например, в американском App Store Shadowrocket стоит 2,99 доллара США.
+Для обычных пользователей регистрация иностранного Apple ID и его пополнение — процесс довольно сложный. Ниже я представлю несколько **простых, безопасных, стабильных и быстрых** способов легко скачать Shadowrocket.
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
+---
 
-Регистрация иностранного Apple ID и его пополнение может быть немного сложной процедурой. Сегодня я расскажу о нескольких простых, безопасных, стабильных и быстрых способах скачать Shadowrocket без лишних проблем.
+### 1. Покупка временного зарубежного Apple ID
 
-### 1. Купить временный иностранный Apple ID
+Ссылка для покупки:  
+[https://idappstore.net/pg/207.html](https://idappstore.net/pg/207.html)
 
-Ссылка для покупки: [https://idappstore.net/pg/207.html](https://idappstore.net/pg/207.html)
+Цена: **1.97 CNY**
 
-Цена: 1,97 юаня
+После покупки войдите в App Store **(не через настройки iOS)**. После входа вы сможете сразу скачать Shadowrocket.
 
-После покупки войдите в App Store напрямую (не через настройки устройства). После входа вы сможете сразу скачать Shadowrocket.
+![Shadowrocket](https://shadowrocket.ink/img/shadowrocket小火箭-11002.jpg)
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11002.jpg)
+---
 
-### 2. Купить VPN с предоставлением временного Apple ID
+### 2. Покупка прокси-сервиса (Airport) с инструкцией по импорту узлов
 
-Shadowrocket в основном используется для прокси-соединений, поэтому обычно его приобретают вместе с VPN (так называемыми «аэропортами»). Многие VPN-провайдеры предоставляют зарубежные Apple ID, что упрощает загрузку Shadowrocket. В этом случае не нужно отдельно покупать иностранный Apple ID — достаточно купить подписку VPN, и все проблемы решены.
+Основная цель установки Shadowrocket — использование прокси. В большинстве случаев пользователи приобретают прокси-сервис («airport»). Многие такие сервисы предоставляют **зарубежные Apple ID**, чтобы упростить загрузку Shadowrocket.
 
-Ссылка для покупки: [https://web1.bby011.com/#/register?code=8xTTMr2f](https://web1.bby011.com/#/register?code=8xTTMr2f)
+Ссылка для покупки:  
+[https://6.66jc.top/#/login?code=sT9kLfc6](https://6.66jc.top/#/login?code=sT9kLfc6)
 
-Цена: 15 юаней
+Цена: **14 CNY / 200G**
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/baobei10001.jpg)
+![Airport](https://shadowrocket.ink/img/niubi001.jpg)
 
-1. После покупки откройте документацию. В ней есть инструкции по использованию для всех клиентов, включая временные зарубежные аккаунты Shadowrocket, предоставленные продавцом.
+**Шаг 1**  
+После покупки нажмите **Usage Tutorial** → **iOS Tutorial**. Там поставщик предоставляет **временный зарубежный Apple ID для Shadowrocket**.
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11004.jpg)
+![Step 1](https://shadowrocket.ink/img/niubi002.jpg)
 
-2. Найдите свою операционную систему (например, iPhone).
+**Шаг 2**  
+Следуйте инструкции, войдите в App Store под этим Apple ID и скачайте Shadowrocket.  
+⚠️ Обязательно **выйдите из временного Apple ID после загрузки**.
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11005.jpg)
+![Step 2](https://shadowrocket.ink/img/niubi003.jpg)
 
-3. После оформления подписки вы получите зарубежный Apple ID от продавца.
+**Шаг 3**  
+Перейдите в **My Subscriptions**, скопируйте ссылку подписки, откройте Shadowrocket, добавьте ссылку — и вы увидите доступные узлы.
 
-![shadowrocket-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11006.jpg)
+![Step 3](https://shadowrocket.ink/img/niubi004.jpg)
 
-4. Используйте этот Apple ID для входа в App Store и загрузки Shadowrocket.
+---
 
-### Как скачать Shadowrocket по картинкам
+### Загрузка Shadowrocket по изображениям
 
-![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
+![Download Guide](https://shadowrocket.ink/img/shadowrocket11002.jpg)
 
-## Рекомендованные аэропорты
+---
 
-* Ниже перечисленные сервисы работают по модели оплаты за трафик. На их сайтах есть инструкции по установке и использованию программного обеспечения.
-* После покупки трафика срок действия не ограничен — он действителен до полного расходования.
-* Если сайт недоступен, скорее всего он заблокирован — просто выберите другой сервис.
+## Рекомендации по Airport (прокси-сервисам)
+
+* Ниже перечисленные сервисы взимают плату по объёму трафика и предоставляют инструкции по установке и использованию ПО.
+* После покупки трафика **нет ограничения по времени** — он действует до полного использования.
+* Если сайт не открывается, значит он заблокирован — просто выберите другой.
 
 | Название | Цена | Трафик | Узлы |
 | :--- | :--- | :--- | :--- |
-| [Североамериканский аэропорт](https://www.northamericanairport-official-mirror.shop/#/register?code=j2rr2X4T) | 10 CNY | 1000 ГБ | 35 |
+| [Speed Airport](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200G | 30 |
+| [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000G | 35 |
 | [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 год | 42 |
-| [Один цент](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 ГБ | 40 |
-| [Крутой аэропорт](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200 ГБ | 41 |
-| [Mojie Cloud](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130 ГБ | 48 |
-| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100 ГБ | 42 |
-| [Nongfu Spring Cloud](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200 ГБ | 32 |
-| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100 ГБ | 54 |
-| [Убыточный аэропорт](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000 ГБ | 37 |
-| [Kitty Cloud](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 год | 42 |
-| [Fisher Cloud](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300 ГБ | 32 |
-| [Ofopp Cloud](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100 ГБ | 70 |
-| [Супервыгодный аэропорт](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666 ГБ | 40 |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600 ГБ | 64 |
-| [Тысяческоростной кот](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512 ГБ | 46 |
-| [Nai Cloud](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280 ГБ | 140 |
-| [Murphy Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100 ГБ | 33 |
+| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100G | 40 |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200G | 41 |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130G | 48 |
+| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100G | 42 |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200G | 32 |
+| [Net Express](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100G | 54 |
+| [Loss-Making Airport](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000G | 37 |
+| [Kitty](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 год | 42 |
+| [Yuyun Airport](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300G | 32 |
+| [Ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100G | 70 |
+| [Super Value](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666G | 40 |
+| [Baobei Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600G | 64 |
+| [Qiansumao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512G | 46 |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280G | 140 |
+| [Mofei Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100G | 33 |
 
+- Контакты: **leeulen60@gmail.com**
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+---
 
 ## Другие страницы с общими Apple ID
 
-Ссылка: [https://aunlock.laomaos.com/share/qGCVyahUfp](https://aunlock.laomaos.com/share/qGCVyahUfp)
+https://appi.lol  
+https://idusr.com  
+https://ccbaohe.com/appleID  
+https://free.mayun.us  
+https://best.iwanshare.club  
+https://best.iwanshare.club/acc1.html  
+https://apple.vwo50.buzz/filter_page.php  
+https://xhj.ios999.vip  
+https://xhj.ipaxxs.cn  
+https://xhj.ipaxxs.cn/xhj2  
+https://free.shadowrocket.online  
+https://www.lanhaiblog.com/post/3.html  
+https://www.fengche666.net/doc/1642  
+https://wukongdy15.top  
+https://nnntk.com/share/id  
+https://nnntk.com/share/app  
+https://www.appstore.autos  
+https://id.ali-door.top/share/umoKGeJwOa  
+https://appstore.autos/share/EzhGxYWHQO/  
+https://idshare001.me/chong.html  
+https://apple.123445566-ld.net/share/QSM  
+https://id.bocchi.vip/
 
-![shadowrocket11002.jpg](https://shadowrocket.ink/img/baobei10002.jpg)
-
-
-
+![Shadowrocket](https://shadowrocket.ink/img/baobei10002.jpg)
++++ 
