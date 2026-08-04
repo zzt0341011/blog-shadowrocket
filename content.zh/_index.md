@@ -63,7 +63,7 @@ type: docs
 | [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
 | [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 15元   | 200G |40个|
 | [speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15元 | 100G | 42个 |
-| [网际快车](https://wjkc66.vip?c=REZUOC) | 16元 | 100G | 54个 |
+| [网际快车](https://1.jnk.ink/ad2RVl) | 16元 | 100G | 54个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 25个 |
 | [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
 | [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
