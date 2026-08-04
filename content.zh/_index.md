@@ -59,15 +59,16 @@ type: docs
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://1.jnk.ink/L4q20S) | 20元 | 130G | 30个 |
+| [魔戒](https://1.jnk.ink/L4q20S) | 1元 | 1G | 30个 |
+| [网际快车](https://1.jnk.ink/ad2RVl) | 7元 | 20G | 54个 |
 | [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
-| [农夫山泉](https://1.jnk.ink/i1fXTMYk)    | 15元   | 200G |40个|
-| [speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15元 | 100G | 42个 |
-| [网际快车](https://1.jnk.ink/ad2RVl) | 16元 | 100G | 54个 |
-| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 25个 |
-| [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
+| [飞鸟](https://1.jnk.ink/i7OhaC) | 10元 | 200G | 25个 |
+| [皮卡丘](https://1.jnk.ink/d07dCA) | 15元 | 20G | 40个 |
+| [happy猫](https://1.jnk.ink/5KiTxY) | 20元 | 200G | 27个 |
+| [农夫山泉](https://1.jnk.ink/i1fXTMYk)  | 45元   | 200G |40个|
 | [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
-| [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
+| [自由猫](https://1.jnk.ink/haO8Dr) | 89元 | 200G | 71个 |
+| [飞兔](https://1.jnk.ink/bbXkiN) | 30元 | 100G | 80个 |
 
 
 - leeulen60@gmail.com
