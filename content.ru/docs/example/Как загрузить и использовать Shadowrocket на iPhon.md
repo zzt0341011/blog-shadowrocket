@@ -27,7 +27,7 @@
 Основная цель установки Shadowrocket — использование прокси. В большинстве случаев пользователи приобретают прокси-сервис («airport»). Многие такие сервисы предоставляют **зарубежные Apple ID**, чтобы упростить загрузку Shadowrocket.
 
 Ссылка для покупки:  
-[https://6.66jc.top/#/login?code=sT9kLfc6](https://6.66jc.top/#/login?code=sT9kLfc6)
+[https://1.jnk.ink/LYet7x](https://1.jnk.ink/LYet7x)
 
 Цена: **14 CNY / 200G**
 
