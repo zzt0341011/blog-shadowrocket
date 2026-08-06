@@ -27,7 +27,7 @@ After purchase, log in to the App Store **(do not log in via iOS Settings)**. On
 The purpose of downloading Shadowrocket is to use it for proxy access. In most cases, users will purchase a proxy service (“airport”). Many airports provide **foreign Apple IDs** to make downloading Shadowrocket easier.
 
 Purchase link:  
-[https://6.66jc.top/#/login?code=sT9kLfc6](https://6.66jc.top/#/login?code=sT9kLfc6)
+[https://1.jnk.ink/LYet7x](https://1.jnk.ink/LYet7x)
 
 Price: **14 CNY / 200G**
 
