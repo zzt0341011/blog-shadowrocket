@@ -20,7 +20,7 @@
 
 下载shadowrocket小火箭就是为了进行代理上网，一般会购买机场，而很多机场会提供海外苹果id，让用户下载shadowrocket小火箭更加方便，
 
-购买网址：[https://6.66jc.top/#/login?code=sT9kLfc6](https://6.66jc.top/#/login?code=sT9kLfc6)
+购买网址：[https://666.66jc.top/#/login?code=sT9kLfc66](https://666.66jc.top/#/login?code=sT9kLfc66)
 
 价格：14元/200G
 
