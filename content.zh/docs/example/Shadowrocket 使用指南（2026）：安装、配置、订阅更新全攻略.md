@@ -2,7 +2,7 @@
 
 Shadowrocket（俗称“小火箭”）是 iPhone 和 iPad 平台广受欢迎的网络代理客户端之一，凭借稳定的性能、丰富的功能以及成熟的生态，成为许多 iOS 用户的常用工具。它支持 VLESS、Trojan、Shadowsocks、VMess、Hysteria 等多种主流代理协议，并具备规则分流、DNS 管理、广告拦截、脚本扩展、流量统计等高级功能。
 
-如果你是第一次接触 Shadowrocket，本教程将介绍它的基本功能、订阅配置、节点管理以及日常使用技巧，帮助你快速了解这款应用。
+[如果你是第一次接触 Shadowrocket](https://shadowrocket.ink.zh)，本教程将介绍它的基本功能、订阅配置、节点管理以及日常使用技巧，帮助你快速了解这款应用。
 
 ![shadowrocket31007.jpg](https://shadowrocket.ink/img/shadowrocket31007.jpg)
 
@@ -99,6 +99,25 @@ Shadowrocket 是一款运行于 iOS 系统上的代理客户端，它本身并�
 * 网络质量较好
 * 提供售后支持
 * 提供详细使用说明的服务商。
+
+## 机场推荐
+
+* 以下机场按照流量付费，网站里有软件的使用和安装教程
+* 购买流量以后，不限制时间，流量用完为止
+* 如果网站无法访问，则说明已经被墙，更换其他网站即可
+
+| 名 称 | 价 格 | 流 量 | 节点数 |
+| :--- | :--- | :--- | :--- |
+| [魔戒](https://1.jnk.ink/L4q20S) | 1元 | 1G | 30个 |
+| [网际快车](https://1.jnk.ink/ad2RVl) | 7元 | 20G | 54个 |
+| [牛逼](https://1.jnk.ink/LYet7x) | 14元 | 200G | 31个 |
+| [飞鸟](https://1.jnk.ink/i7OhaC) | 10元 | 200G | 25个 |
+| [皮卡丘](https://1.jnk.ink/d07dCA) | 15元 | 20G | 40个 |
+| [happy猫](https://1.jnk.ink/5KiTxY) | 20元 | 200G | 27个 |
+| [农夫山泉](https://1.jnk.ink/i1fXTMYk)  | 45元   | 200G |40个|
+| [宝贝云](https://1.jnk.ink/xxPwfy) | 55元 | 600G | 64个 |
+| [自由猫](https://1.jnk.ink/haO8Dr) | 89元 | 200G | 71个 |
+| [飞兔](https://1.jnk.ink/bbXkiN) | 30元 | 100G | 80个 |
 
 这里，以我使用的一个网际快车机场为例
 使用QQ邮箱、163邮箱进行注册
