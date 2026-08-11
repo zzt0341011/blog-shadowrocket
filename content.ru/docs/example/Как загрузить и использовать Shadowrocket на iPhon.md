@@ -12,9 +12,9 @@
 ### 1. Покупка временного зарубежного Apple ID
 
 Ссылка для покупки:  
-[https://idappstore.net/pg/207.html](https://idappstore.net/pg/207.html)
+[https://appsir.shop/product/Rv1mdAzC5o547CbT](https://appsir.shop/product/Rv1mdAzC5o547CbT)
 
-Цена: **1.97 CNY**
+Цена: **3.68 CNY**
 
 После покупки войдите в App Store **(не через настройки iOS)**. После входа вы сможете сразу скачать Shadowrocket.
 
@@ -57,32 +57,22 @@
 
 ---
 
-## Рекомендации по Airport (прокси-сервисам)
+## Рекомендованные аэропорты
 
-* Ниже перечисленные сервисы взимают плату по объёму трафика и предоставляют инструкции по установке и использованию ПО.
-* После покупки трафика **нет ограничения по времени** — он действует до полного использования.
-* Если сайт не открывается, значит он заблокирован — просто выберите другой.
+* Ниже перечисленные сервисы работают по модели оплаты за трафик. На их сайтах есть инструкции по установке и использованию программного обеспечения.
+* После покупки трафика срок действия не ограничен — он действителен до полного расходования.
+* Если сайт недоступен, скорее всего он заблокирован — просто выберите другой сервис.
 
 | Название | Цена | Трафик | Узлы |
 | :--- | :--- | :--- | :--- |
-| [Speed Airport](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200G | 30 |
-| [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000G | 35 |
-| [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 год | 42 |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100G | 40 |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200G | 41 |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130G | 48 |
-| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100G | 42 |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200G | 32 |
-| [Net Express](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100G | 54 |
-| [Loss-Making Airport](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000G | 37 |
-| [Kitty](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 год | 42 |
-| [Yuyun Airport](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300G | 32 |
-| [Ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100G | 70 |
-| [Super Value](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666G | 40 |
-| [Baobei Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600G | 64 |
-| [Qiansumao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512G | 46 |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280G | 140 |
-| [Mofei Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100G | 33 |
+| [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
+| [Ванцзи Экспресс](https://1.jnk.ink/ad2RVl) | 7 ¥ | 20 ГБ | 54 |
+| [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
+| [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
+| [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
+| [Баобэй Клауд](https://1.jnk.ink/xxPwfy) | 55 ¥ | 600 ГБ | 64 |
+| [Фридом Кэт](https://1.jnk.ink/haO8Dr) | 89 ¥ | 200 ГБ | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | 99 ¥ | 1000 ГБ | 82 |
 
 - Контакты: **leeulen60@gmail.com**
 
