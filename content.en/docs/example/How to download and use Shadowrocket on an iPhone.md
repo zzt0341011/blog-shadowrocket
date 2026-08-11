@@ -59,30 +59,22 @@ Go to **My Subscriptions**, copy the subscription URL, open Shadowrocket, add th
 
 ## Airport Recommendations
 
-* The following airports charge based on traffic usage and provide software usage and installation tutorials.
-* After purchasing traffic, there is **no time limit** — it remains valid until the traffic is used up.
-* If a website cannot be accessed, it means it has been blocked; simply switch to another one.
+* The providers below are billed by data. Each site has software usage and installation guides.
+* Once you buy data, there's no time limit — it lasts until the data runs out.
+* If a site won't load, it has likely been blocked — just switch to another site.
 
-| Name | Price | Traffic | Nodes |
+| Name | Price | Data | Nodes |
 | :--- | :--- | :--- | :--- |
-| [Speed Airport](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200G | 30 |
-| [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000G | 35 |
-| [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 Year | 42 |
-| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100G | 40 |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200G | 41 |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130G | 48 |
-| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100G | 42 |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200G | 32 |
-| [Net Express](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100G | 54 |
-| [Loss-Making Airport](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000G | 37 |
-| [Kitty](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 Year | 42 |
-| [Yuyun Airport](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300G | 32 |
-| [Ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100G | 70 |
-| [Super Value](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666G | 40 |
-| [Baobei Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600G | 64 |
-| [Qiansumao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512G | 46 |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280G | 140 |
-| [Mofei Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100G | 33 |
+| [魔戒 (Mojie)](https://1.jnk.ink/L4q20S) | ¥1 | 1G | 30 |
+| [网际快车 (Wangji Kuaiche)](https://1.jnk.ink/ad2RVl) | ¥7 | 20G | 54 |
+| [牛逼 (Niubi)](https://1.jnk.ink/LYet7x) | ¥14 | 200G | 31 |
+| [飞鸟 (Feiniao)](https://1.jnk.ink/i7OhaC) | ¥10 | 200G | 25 |
+| [皮卡丘 (Pikachu)](https://1.jnk.ink/d07dCA) | ¥15 | 20G | 40 |
+| [happy猫 (Happy Cat)](https://1.jnk.ink/5KiTxY) | ¥20 | 200G | 27 |
+| [农夫山泉 (Nongfu Shanquan)](https://1.jnk.ink/i1fXTMYk)  | ¥45   | 200G | 40 |
+| [宝贝云 (Baobei Yun)](https://1.jnk.ink/xxPwfy) | ¥55 | 600G | 64 |
+| [自由猫 (Ziyou Mao)](https://1.jnk.ink/haO8Dr) | ¥89 | 200G | 71 |
+| [飞兔 (Feitu)](https://1.jnk.ink/bbXkiN) | ¥30 | 100G | 80 |
 
 - Contact: **leeulen60@gmail.com**
 
