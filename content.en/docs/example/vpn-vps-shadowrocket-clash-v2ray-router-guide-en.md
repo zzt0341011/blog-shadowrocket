@@ -33,7 +33,7 @@ In short: **a VPN is a connection technology, a VPS is a server resource**. Once
 have a VPS, you can choose to deploy all sorts of services on it, including a VPN — but
 the two terms aren't interchangeable.
 
-## 2. What Are Shadowrocket, Clash, and V2Ray
+## 2. [What Are Shadowrocket](https://shadowrocket.ink), Clash, and V2Ray
 
 These three are often discussed together, but they don't occupy the same position.
 
@@ -100,3 +100,20 @@ Putting these terms side by side makes things clearer:
 Once you understand how these layers relate to each other, it becomes much easier to
 look at the specific settings screens of any given tool and tell whether an option is
 operating at the "connection method" layer or the "resource/deployment" layer.
+
+* The providers below are billed by data. Each site has software usage and installation guides.
+* Once you buy data, there's no time limit — it lasts until the data runs out.
+* If a site won't load, it has likely been blocked — just switch to another site.
+
+| Name | Price | Data | Nodes |
+| :--- | :--- | :--- | :--- |
+| [魔戒 (Mojie)](https://1.jnk.ink/L4q20S) | ¥1 | 1G | 30 |
+| [网际快车 (Wangji Kuaiche)](https://1.jnk.ink/ad2RVl) | ¥7 | 20G | 54 |
+| [牛逼 (Niubi)](https://1.jnk.ink/LYet7x) | ¥14 | 200G | 31 |
+| [飞鸟 (Feiniao)](https://1.jnk.ink/i7OhaC) | ¥10 | 200G | 25 |
+| [皮卡丘 (Pikachu)](https://1.jnk.ink/d07dCA) | ¥15 | 20G | 40 |
+| [happy猫 (Happy Cat)](https://1.jnk.ink/5KiTxY) | ¥20 | 200G | 27 |
+| [农夫山泉 (Nongfu Shanquan)](https://1.jnk.ink/i1fXTMYk)  | ¥45   | 200G | 40 |
+| [宝贝云 (Baobei Yun)](https://1.jnk.ink/xxPwfy) | ¥55 | 600G | 64 |
+| [自由猫 (Ziyou Mao)](https://1.jnk.ink/haO8Dr) | ¥89 | 200G | 71 |
+| [飞兔 (Feitu)](https://1.jnk.ink/bbXkiN) | ¥30 | 100G | 80 |
