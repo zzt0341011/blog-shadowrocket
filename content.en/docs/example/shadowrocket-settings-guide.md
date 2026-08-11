@@ -5,7 +5,7 @@ keywords: ["Shadowrocket", "settings guide", "global routing"]
 weight: 1
 ---
 
-Shadowrocket's interface has quite a few elements, and it's easy to feel unsure about what
+[Shadowrocket's interface has quite a few elements](https://shadowrocket.ink), and it's easy to feel unsure about what
 each button does the first time you open it. This guide walks through the settings in order —
 "Home screen → Interface language → Global routing" — explaining the main options one by one.
 
