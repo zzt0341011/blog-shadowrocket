@@ -8,9 +8,9 @@
 
 ### 一、购买一个临时国外id
 
-购买网址：[https://idappstore.net/pg/207.html](https://idappstore.net/pg/207.html)
+购买网址：[https://appsir.shop/product/Rv1mdAzC5o547CbT](https://appsir.shop/product/Rv1mdAzC5o547CbT)
 
-价格：1.97元
+价格：3.68元
 
 购买完以后，登录appstore，不要在设置里面登录，登录上以后，可以直接下载shadowrocket小火箭。
 
