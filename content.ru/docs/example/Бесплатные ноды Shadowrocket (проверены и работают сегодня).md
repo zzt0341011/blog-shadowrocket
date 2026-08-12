@@ -34,16 +34,9 @@ keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесп�
 Инструкция по импорту — в разделе [Инструкция по импорту в Shadowrocket](#3-instrukciya-po-importu-v-shadowrocket) ниже.
 
 ```text
-vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA_AE_%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ%3D%3D@163.176.198.213:59319#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ%3D%3D@144.22.183.254:59319#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&sid=69b851&type=tcp&headerType=none&host=www.yahoo.com#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%7C%20CAN
-vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@148.113.180.51:48905?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.radeon.com&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&type=tcp&headerType=none&host=www.radeon.com#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%7C%20CAN
-trojan://55354c2b8ee339571bd657a9bb9858cc@106.75.132.91:40783?security=tls&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20CN_108
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO1%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.31:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO2%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.7:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO3%7C2.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO4%7C2.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
+vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?encryption=none&security=reality&sni=stacks.vk-portal.net&fp=edge&pbk=8R416wHsKA_fipQLIw2gceCaTTBIJZRMwGjNTURAx3I&sid=ad55857184e91aad&type=tcp&headerType=none#SE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9127
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&sid=a91045bc&type=tcp&headerType=none&host=www.samsung.com#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
 ```
 
 
