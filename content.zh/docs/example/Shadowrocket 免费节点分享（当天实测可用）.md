@@ -34,9 +34,18 @@ keywords: ["Shadowrocket免费节点", "小火箭免费节点", "免费订阅节
 导入方法见下方[小火箭导入教程](#三shadowrocket-小火箭导入教程)。
 
 ```text
-vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?encryption=none&security=reality&sni=stacks.vk-portal.net&fp=edge&pbk=8R416wHsKA_fipQLIw2gceCaTTBIJZRMwGjNTURAx3I&sid=ad55857184e91aad&type=tcp&headerType=none#SE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9127
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&sid=a91045bc&type=tcp&headerType=none&host=www.samsung.com#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
+hysteria2://sFWVn9pkJpOtvvQX@43.207.185.94:16001?sni=jp-ls-6.nebulacloud.win&insecure=1#hysteria2-743190643
+hysteria2://ahGFfsmY8MRbFPYi@57.182.252.243:26001?sni=jp-ls-f-1.nebulacloud.win&insecure=1#hysteria2-738059791
+hysteria2://DRJF4I7ft6bkGi1P@43.207.158.159:36001?sni=jp-ls-a6.nebulacloud.win&insecure=1#hysteria2-738059861
+hysteria2://yQVXqI1PLqYlv9CJ@3.113.215.96:16001?sni=jp-ls-h-3.nebulacloud.win&insecure=1#hysteria2-743190631
+hysteria2://lNHF8jiIOvOjFB84@35.74.66.136:46001?sni=jp-ls-g-3.nebulacloud.win&insecure=1#hysteria2-738059781
+hysteria2://VpfnFCX9SXb1wuk9@35.74.27.195:36001?sni=jp-ls-d-5.nebulacloud.win&insecure=1#hysteria2-738059889
+trojan://EQ30679154@united-frog.rooster465.autos:443?security=tls&sni=united-frog.rooster465.autos&type=tcp&headerType=none#trojan-710529857
+trojan://EQ30679154@curious-ocelot.rooster465.autos:443?security=tls&sni=curious-ocelot.rooster465.autos&type=tcp&headerType=none#trojan-710529859
+hysteria2://IVhmHXmvVAKUiwhE@13.214.127.179:36001?sni=sg-ls-q-2.nebulacloud.win&insecure=1#hysteria2-743190677
+trojan://EQ30679154@willing-eagle.rooster465.autos:443?security=tls&sni=willing-eagle.rooster465.autos&type=tcp&headerType=none#trojan-733881338
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFQlx1RDgzQ1x1RERGN0ZSXzF8MS43TUIvcyIsDQogICJhZGQiOiAicGxhbmIubW9qY24uY29tLmxpbnV4bGgueGluIiwNCiAgInBvcnQiOiAiMTY2NDQiLA0KICAiaWQiOiAiNWI4NzRhMjEtOTNiNC00ZmQ1LTllMTEtYjNjYzMwYzlhYmRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI3MzIyNjA5NGIxMmM3NGM0ZjRlMGQwMjIwZDMwMDEwOC5tb2Jnc2xiLnRiY2FjaGUuY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
 ```
 
 
