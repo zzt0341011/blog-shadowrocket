@@ -4,32 +4,18 @@
 
 ![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
 
-### shadowrocket共享账号 下载完及时退出-2025-8-4
+### shadowrocket共享账号 下载完及时退出-2025-9-11
 
 - 账号必须从appstore登录，也就是应用商店，不能从设置登录
 - 登录以后，直接去下载shadowrocket，完了以后退出账号
 
-| 账号 | 密码   |
-|------|--------|
-| supaodlholzs@hotmail.com    | cYUfvF1Nsp  |
-| minhh222@163.com    | GxyWAxE8Rp  |
-| theaedward378phdw@gmail.com    | NP5k1b94pT  |
-| mollieruby793cwvy@gmail.com    | AMXr6BbsuG  |
-| edwardjack357kxmx@gmail.com    | 1Z2F7yyxBb  |
-| aebgzbcws785@hotmail.com    | B2CVBbSbQn  |
-| udyvwevt173@hotmail.com    | Ynhk4698k  |
-| huttoaring7l@outlook.com    | 6JzSkDVCrV  |
-| nemrajsivraj@hotmail.com    | fAbavXQD1s  |
-| aderaogedawo@outlook.com   | uYFnKFwCM5  |
-| vpvpdr@163.com   | Mr8bKYfQdu  |
-| choprabazak@hotmail.com   | bx8Ru2PFJ8  |
-| jimou0866802@163.com   | zqwdED#8  |
-| 13@laomaos.com   | 1Y5aP7xcqD  |
-| biewutawu842@163.com   | TDn1UgTSutMP  |
-| mgelizhielo@hotmail.com   | 5AhUXZA7e2  |
-| supaodlholzs@hotmail.com   | Pgk6jXZFTk  |
-| theaedward378phdw@gmail.com   | NP5k1b94pT  |
-| aderaogedawo@outlook.com   | uYFnKFwCM5  |
+| 账号 | 密码 |
+|------|------|
+| 13999501997@163.com | Yutp577w8Y |
+| 18345182445@163.com | hyvQu2A1gs |
+| 1578009387@qq.com | 1vQVjQqUAf |
+| 15994156588@163.com | NcdPUeCn8R |
+| 18663137660@163.com | NcdPUeCn8R |
 
   
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
