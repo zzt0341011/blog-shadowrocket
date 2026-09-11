@@ -1,108 +1,71 @@
-## How to Download Shadowrocket (Little Rocket)
-
-Many users don’t know how to download [Shadowrocket](https://shadowrocket.ink/zh). The main reason is that Shadowrocket requires a **non-Mainland Apple ID**, because the China App Store does not offer Shadowrocket. However, even if you have a foreign Apple ID, you still cannot download it directly, because **Shadowrocket is a paid app**.  
-For example, in the U.S. App Store, it costs **$2.99**.
-
-![Shadowrocket](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
-
-For users, having to register a foreign Apple ID and then top it up can be quite complicated. Today, I’ll introduce several **simple, safe, stable, and fast** ways to download Shadowrocket easily.
-
+---
+title: "How to Download Shadowrocket on iPhone | Complete Installation Guide"
+description: "Step-by-step guide to download and install Shadowrocket (Xiao Huojian) on iPhone. Explains why a foreign Apple ID is required, how to buy temporary IDs, get IDs from airports, import nodes, and recommended subscription services."
+keywords: ["Shadowrocket", "Shadowrocket download", "download Shadowrocket iPhone", "foreign Apple ID", "Shadowrocket tutorial", "iOS proxy app", "Xiao Huojian"]
 ---
 
-### 1. Buy a Temporary Foreign Apple ID
+# How to Download Shadowrocket on iPhone – Complete Guide
 
-Purchase link:  
-[https://idappstore.net/pg/207.html](https://idappstore.net/pg/207.html)
+Many users don’t know how to download [Shadowrocket](https://shadowrocket.ink/zh) (commonly called Xiao Huojian). There are two main reasons:
 
-Price: **1.97 CNY**
+1. A Chinese (or other restricted-region) Apple ID cannot download Shadowrocket from the App Store.
+2. Even with a foreign Apple ID, Shadowrocket is a **paid app** (approximately $2.99 in the US App Store).
 
-After purchase, log in to the App Store **(do not log in via iOS Settings)**. Once logged in, you can directly download Shadowrocket.
+![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
 
-![Shadowrocket](https://shadowrocket.ink/img/shadowrocket小火箭-11002.jpg)
+Registering a foreign Apple ID and topping it up can be cumbersome. Below are simpler, safer and faster methods to download Shadowrocket.
 
----
+## 1. Buy a Temporary Foreign Apple ID
 
-### 2. Buy a Proxy Service (Airport) with Node Import Tutorial
+Purchase link: [https://store.chongjin01.cc/](https://store.chongjin01.cc/)  
+Price: 8.5 CNY
 
-The purpose of downloading Shadowrocket is to use it for proxy access. In most cases, users will purchase a proxy service (“airport”). Many airports provide **foreign Apple IDs** to make downloading Shadowrocket easier.
+After purchase, sign in to the **App Store** with the ID (do not sign in through system Settings). You can then download Shadowrocket directly.
 
-Purchase link:  
-[https://1.jnk.ink/LYet7x](https://1.jnk.ink/LYet7x)
+![shadowrocket-jiaocheng-1001.jpg](https://shadowrocket.ink/img/shadowrocket-jiaocheng-1001.jpg)
 
-Price: **14 CNY / 200G**
+## 2. Get a Foreign ID + Import Nodes via Airport Subscription
 
-![Airport](https://shadowrocket.ink/img/niubi001.jpg)
+Most people download Shadowrocket to use proxy services. Many airports provide temporary overseas Apple IDs to make downloading easier.
 
-**Step 1**  
-After purchasing, click **Usage Tutorial** → **iOS Tutorial**. Inside, the vendor provides a **temporary overseas Apple ID for Shadowrocket**.
+Purchase link: [https://1.jnk.ink/xxPwfy](https://1.jnk.ink/xxPwfy)  
+Example price: 15 CNY / 1000G
 
-![Step 1](https://shadowrocket.ink/img/niubi002.jpg)
+![shadowrocket-jiaocheng-1002.jpg](https://shadowrocket.ink/img/shadowrocket-jiaocheng-1002.jpg)
 
-**Step 2**  
-Follow the tutorial to log in with the Apple ID and download Shadowrocket.  
-⚠️ Be sure to **log out of the temporary Apple ID after downloading**.
+1. After purchase, go to “Usage Documents” → “Apple Shadowrocket” to find the temporary overseas account provided by the service.
 
-![Step 2](https://shadowrocket.ink/img/niubi003.jpg)
+![shadowrocket-jiaocheng-1003.jpg](https://shadowrocket.ink/img/shadowrocket-jiaocheng-1003.jpg)
 
-**Step 3**  
-Go to **My Subscriptions**, copy the subscription URL, open Shadowrocket, add the subscription link, and you will see the available nodes.
+2. Follow the instructions to sign in with the Apple ID and download Shadowrocket. **Be sure to sign out of the temporary ID after downloading.**
 
-![Step 3](https://shadowrocket.ink/img/niubi004.jpg)
+![niubi003.jpg](https://shadowrocket.ink/img/niubi003.jpg)
 
----
+3. Go to “My Subscription”, copy the subscription URL, open Shadowrocket and add the subscription link to load the nodes.
 
-### Download Shadowrocket by Following the Images
+![niubi004.jpg](https://shadowrocket.ink/img/niubi004.jpg)
 
-![Download Guide](https://shadowrocket.ink/img/shadowrocket11002.jpg)
+## Download Shadowrocket Following the Images
 
----
+![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
 
-## Airport Recommendations
+## Recommended Airports
 
-* The providers below are billed by data. Each site has software usage and installation guides.
-* Once you buy data, there's no time limit — it lasts until the data runs out.
-* If a site won't load, it has likely been blocked — just switch to another site.
+* The following services charge by traffic. Software usage and installation tutorials are available on their websites.
+* After purchasing traffic there is no time limit — use until the traffic is exhausted.
+* If a website is inaccessible, it may be blocked; switch to another one.
 
-| Name | Price | Data | Nodes |
+| Name | Price | Traffic | Nodes |
 | :--- | :--- | :--- | :--- |
-| [魔戒 (Mojie)](https://1.jnk.ink/L4q20S) | ¥1 | 1G | 30 |
-| [网际快车 (Wangji Kuaiche)](https://1.jnk.ink/ad2RVl) | ¥7 | 20G | 54 |
-| [牛逼 (Niubi)](https://1.jnk.ink/LYet7x) | ¥14 | 200G | 31 |
-| [飞鸟 (Feiniao)](https://1.jnk.ink/i7OhaC) | ¥10 | 200G | 25 |
-| [皮卡丘 (Pikachu)](https://1.jnk.ink/d07dCA) | ¥15 | 20G | 40 |
-| [happy猫 (Happy Cat)](https://1.jnk.ink/5KiTxY) | ¥20 | 200G | 27 |
-| [农夫山泉 (Nongfu Shanquan)](https://1.jnk.ink/i1fXTMYk)  | ¥45   | 200G | 40 |
-| [宝贝云 (Baobei Yun)](https://1.jnk.ink/xxPwfy) | ¥55 | 600G | 64 |
-| [自由猫 (Ziyou Mao)](https://1.jnk.ink/haO8Dr) | ¥89 | 200G | 71 |
-| [飞兔 (Feitu)](https://1.jnk.ink/bbXkiN) | ¥30 | 100G | 80 |
+| [魔戒](https://1.jnk.ink/L4q20S) | 1 CNY | 1G | 30 |
+| [网际快车](https://1.jnk.ink/ad2RVl) | 7 CNY | 20G | 54 |
+| [牛逼](https://1.jnk.ink/LYet7x) | 14 CNY | 200G | 31 |
+| [飞鸟](https://1.jnk.ink/i7OhaC) | 10 CNY | 200G | 25 |
+| [皮卡丘](https://1.jnk.ink/d07dCA) | 15 CNY | 20G | 40 |
+| [happy猫](https://1.jnk.ink/5KiTxY) | 20 CNY | 200G | 27 |
+| [农夫山泉](https://1.jnk.ink/i1fXTMYk) | 45 CNY | 200G | 40 |
+| [宝贝云](https://1.jnk.ink/xxPwfy) | 55 CNY | 600G | 64 |
+| [自由猫](https://1.jnk.ink/haO8Dr) | 89 CNY | 200G | 71 |
+| [飞兔](https://1.jnk.ink/bbXkiN) | 30 CNY | 100G | 80 |
 
-- Contact: **leeulen60@gmail.com**
-
----
-
-## Other Shared Apple ID Pages
-
-https://appi.lol  
-https://idusr.com  
-https://ccbaohe.com/appleID  
-https://free.mayun.us  
-https://best.iwanshare.club  
-https://best.iwanshare.club/acc1.html  
-https://apple.vwo50.buzz/filter_page.php  
-https://xhj.ios999.vip  
-https://xhj.ipaxxs.cn  
-https://xhj.ipaxxs.cn/xhj2  
-https://free.shadowrocket.online  
-https://www.lanhaiblog.com/post/3.html  
-https://www.fengche666.net/doc/1642  
-https://wukongdy15.top  
-https://nnntk.com/share/id  
-https://nnntk.com/share/app  
-https://www.appstore.autos  
-https://id.ali-door.top/share/umoKGeJwOa  
-https://appstore.autos/share/EzhGxYWHQO/  
-https://idshare001.me/chong.html  
-https://apple.123445566-ld.net/share/QSM  
-https://id.bocchi.vip/
-
-![Shadowrocket](https://shadowrocket.ink/img/baobei10002.jpg)
+- leeulen60@gmail.com
