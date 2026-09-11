@@ -8,7 +8,7 @@ tags: ["Shadowrocket", "免费节点", "小火箭", "免费机场", "科学上�
 keywords: ["Shadowrocket免费节点", "小火箭免费节点", "免费订阅节点", "免费机场", "shadowrocket节点分享"]
 ---
 
-# Shadowrocket 免费节点分享（2026年8月6日更新）
+# Shadowrocket 免费节点分享（2026年9月11日更新）
 
 > **状态：当天实测可用**　·　**更新频率：每日手动收集更新**
 
@@ -34,16 +34,14 @@ keywords: ["Shadowrocket免费节点", "小火箭免费节点", "免费订阅节
 导入方法见下方[小火箭导入教程](#三shadowrocket-小火箭导入教程)。
 
 ```text
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk5-r.link-t7.com:10130?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=movie&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C5.0MB%2Fs
-vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk4-r.link-t7.com:10129?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=movie&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_4%7C5.4MB%2Fs
-vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk3-r.link-t7.com:10128?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=movie&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C5.1MB%2Fs
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk4-r.link-t7.com:10129?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=movie&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_6%7C5.0MB%2Fs
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk2-r.link-t7.com:10127?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=update&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_5%7C4.7MB%2Fs
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@hk1-r.link-t7.com:10126?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=update&mode=gun#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C5.3MB%2Fs
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@89.208.244.252:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_13%7C4.0MB%2Fs
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOFVTXzF8MS4yTUIvcyIsDQogICJhZGQiOiAiMzguMjQ2LjIyNi4yNDAiLA0KICJwb3J0IjogIjUyMDgwIiwNCiAgImlkIjogIjdkNGJkOTYxLTIzMGMtNGIzNC1hYjVkLTA1Y2YwZGZiNGVhNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://44b5f266-2b4f-46ca-83ff-99df77147c30@ger22.orangesms.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.2MB%2Fs
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.149:8443?sni=grape-turbo-fr.roxa.org&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C3.4MB%2Fs
+
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com&insecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Jerusalem%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw%3D%3D@166.88.130.218:30111#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40Raydikalx%20%7C%207A29E4
+vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=edge&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2311
+vless://a031b467-8a77-4e74-8ba9-9ee331f51be2@95.129.236.216:443?encryption=none&security=tls&sni=cdnguard.org&alpn=http%2F1.1&fp=firefox&type=ws&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%2356
+vless://7e80fdf4-70d7-43ef-998e-1cba5e32ed2e@185.241.195.146:443?encryption=none&security=tls&sni=dostavka.stroymatdv.cc&alpn=http%2F1.1&fp=edge&type=ws&path=%2Fe7ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2321
+vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=safari&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2313
+vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=firefox&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2312
 
 ```
 
