@@ -8,7 +8,7 @@ tags: ["Shadowrocket", "Бесплатные ноды", "Бесплатный VP
 keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесплатно", "бесплатная подписка ноды", "бесплатный VPN", "ноды Shadowrocket"]
 ---
 
-# Бесплатные ноды Shadowrocket (обновлено 11/09/2026)
+# Бесплатные ноды Shadowrocket (обновлено 22/09/2026)
 
 > **Статус: проверены и работают сегодня**　·　**Частота обновления: собираются и обновляются вручную каждый день**
 
@@ -35,13 +35,22 @@ keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесп�
 
 ```text
 
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com&insecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Jerusalem%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw%3D%3D@166.88.130.218:30111#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40Raydikalx%20%7C%207A29E4
-vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=edge&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2311
-vless://a031b467-8a77-4e74-8ba9-9ee331f51be2@95.129.236.216:443?encryption=none&security=tls&sni=cdnguard.org&alpn=http%2F1.1&fp=firefox&type=ws&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%2356
-vless://7e80fdf4-70d7-43ef-998e-1cba5e32ed2e@185.241.195.146:443?encryption=none&security=tls&sni=dostavka.stroymatdv.cc&alpn=http%2F1.1&fp=edge&type=ws&path=%2Fe7ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2321
-vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=safari&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2313
-vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&security=reality&sni=static-basket-01.wbbasket.ru&fp=firefox&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&sid=0fc62d3cd3089adb&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2312
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=tcp&headerType=none#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+vless://443779ba-7694-44ce-95c1-2f10682de4fa@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=konkortur.sanjeshvipspeed.ir&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&host=svn-panel-team.lorqino.ir&path=%2Fmmd#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+vless://81e09a82-fe8d-4393-aefb-747322b20795@104.21.88.174:2052?encryption=none&security=none&type=httpupgrade&host=nexo.xelviro.ir&path=%2Fwss#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+vless://c0a7e427-1034-485a-b5c7-4449bd04b28d@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&host=svn-panel-team.lorqino.ir&path=%2Fmmd#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A8yoyapai.com
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4CO%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E4%B8%A8yoyapai.com
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?encryption=none&security=none&type=ws&host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan#%F0%9F%87%B9%F0%9F%87%ADTH%E6%B3%B0%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://12cebf33-2f96-48a3-af37-c2231e5cef75@162.159.156.214:8880?encryption=none&security=none&type=ws&host=throbbing-moon-a07c.90-ec4.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://60ba3369-9a78-40fe-98c3-233a6f107043@178.72.162.73:443?encryption=none&security=tls&sni=ru6.ethicsdinnerpave.online&fp=qq&type=xhttp&host=ru6.ethicsdinnerpave.online&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com
+vless://8a3756ec-179b-48fe-b861-27c0287710ae@94.124.119.187:16565?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yulife.com&fp=chrome&pbk=JqblL-dYqxHH3pAju89x3OkXlBQ8k5LzO2Yoadi8ylk&sid=373e14d458&type=tcp&headerType=none&host=yulife.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
 
 ```
 
