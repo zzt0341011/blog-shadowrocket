@@ -4,7 +4,7 @@
 
 ![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
 
-### shadowrocket共享账号 下载完及时退出-2025-9-11
+### shadowrocket共享账号 下载完及时退出-2026-10-02
 
 - 账号必须从appstore登录，也就是应用商店，不能从设置登录
 - 登录以后，直接去下载shadowrocket，完了以后退出账号
