@@ -10,13 +10,13 @@
 - 登录以后，直接去下载shadowrocket，完了以后退出账号
 
 
-账号 (Email),密码 (Password)
-17661202083@163.com,d641bjUhA1
-aitianbao1984@163.com,63ZnJ8ukjR
-17661202083@163.com,EzEhRt4qpV
-13770017953@163.com,ycM2tERszX
-BettyGarcia5be56@gmail.com,44s4nrRa3yZnJ5
-13732068876@163.com,2pcWDxaabj
+VedderEarlrbpjhf@gmail.com ---- 4PdNahXmqR
+1578009387@qq.com ---- xcP1Y2YA1k
+15312934006@163.com ---- FxYR3gGqvZ
+quodonnell@gmail.com ---- Dd10096da
+qgb477203@163.com ---- cZK7zCHkFF
+jyvqvepn475@163.com ---- TDvU2c8Yw9Qr
+13903700260@163.com ---- auNnFN11v3
 
 
   
