@@ -35,22 +35,16 @@ For import instructions, see the [Shadowrocket import tutorial](#3-shadowrocket-
 
 ```text
 
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=tcp&headerType=none#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
-vless://443779ba-7694-44ce-95c1-2f10682de4fa@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=konkortur.sanjeshvipspeed.ir&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
-vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&host=svn-panel-team.lorqino.ir&path=%2Fmmd#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
-vless://81e09a82-fe8d-4393-aefb-747322b20795@104.21.88.174:2052?encryption=none&security=none&type=httpupgrade&host=nexo.xelviro.ir&path=%2Fwss#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
-vless://c0a7e427-1034-485a-b5c7-4449bd04b28d@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&host=svn-panel-team.lorqino.ir&path=%2Fmmd#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A8yoyapai.com
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4CO%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E4%B8%A8yoyapai.com
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?encryption=none&security=none&type=ws&host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan#%F0%9F%87%B9%F0%9F%87%ADTH%E6%B3%B0%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://12cebf33-2f96-48a3-af37-c2231e5cef75@162.159.156.214:8880?encryption=none&security=none&type=ws&host=throbbing-moon-a07c.90-ec4.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
-vless://60ba3369-9a78-40fe-98c3-233a6f107043@178.72.162.73:443?encryption=none&security=tls&sni=ru6.ethicsdinnerpave.online&fp=qq&type=xhttp&host=ru6.ethicsdinnerpave.online&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com
-vless://8a3756ec-179b-48fe-b861-27c0287710ae@94.124.119.187:16565?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yulife.com&fp=chrome&pbk=JqblL-dYqxHH3pAju89x3OkXlBQ8k5LzO2Yoadi8ylk&sid=373e14d458&type=tcp&headerType=none&host=yulife.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@25701b2b-tmm5c0-tvgkxc-hrtf.los.hyhuawei.com:443?sni=25701b2b-tmm5c0-tvgkxc-hrtf.los.hyhuawei.com&insecure=1#hysteria2-1623483971
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.34.14:2095?encryption=none&security=none&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#vless-932037158
+hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@5333a9dd-tmm5c0-tonrqx-1khwf.los.hyhuawei.com:443?sni=5333a9dd-tmm5c0-tonrqx-1khwf.los.hyhuawei.com&insecure=1#hysteria2-1623484394
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?sni=whatsapp.com&insecure=1#hysteria2-722298603
+hysteria2://8b60d570-cbce-4791-b3e8-bcb80dd12ac0@uk-002.xiaoxiaobujidao.xyz:19443?sni=uk-002.xiaoxiaobujidao.xyz&insecure=0#hysteria2-1625725905
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com:443?sni=5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com&insecure=1#hysteria2-1623484087
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@173.242.126.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=Ig8U3RBUF3X7KPeM13EvQwbqxkZMTKL4VHQrzJl1AWA&sid=ff052ade&type=tcp&headerType=none&host=www.amazon.com#vless-1625946124
+vless://717d03fa-4678-47a0-b27a-dff61a08ef83@5.223.18.177:80?encryption=none&security=none&fp=unsafe&type=ws&path=%2F#vless-1625935492
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@194.195.119.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp&headerType=none&host=googleapis.com#vless-1625941122
+vless://4b8a0930-1c36-4efe-b4fe-21f9ad97905c@5.223.19.211:80?encryption=none&security=none&type=ws&path=%2F#vless-1625428471
 ```
 
 
