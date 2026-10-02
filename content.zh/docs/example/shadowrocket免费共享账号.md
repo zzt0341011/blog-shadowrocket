@@ -9,13 +9,15 @@
 - 账号必须从appstore登录，也就是应用商店，不能从设置登录
 - 登录以后，直接去下载shadowrocket，完了以后退出账号
 
-| 账号 | 密码 |
-|------|------|
-| 13999501997@163.com | Yutp577w8Y |
-| 18345182445@163.com | hyvQu2A1gs |
-| 1578009387@qq.com | 1vQVjQqUAf |
-| 15994156588@163.com | NcdPUeCn8R |
-| 18663137660@163.com | NcdPUeCn8R |
+
+账号 (Email),密码 (Password)
+17661202083@163.com,d641bjUhA1
+aitianbao1984@163.com,63ZnJ8ukjR
+17661202083@163.com,EzEhRt4qpV
+13770017953@163.com,ycM2tERszX
+BettyGarcia5be56@gmail.com,44s4nrRa3yZnJ5
+13732068876@163.com,2pcWDxaabj
+
 
   
 ![shadowrocket11002.jpg](https://shadowrocket.ink/img/shadowrocket11002.jpg)
