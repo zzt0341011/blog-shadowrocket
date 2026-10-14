@@ -35,16 +35,15 @@ keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесп�
 
 ```text
 
-hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@25701b2b-tmm5c0-tvgkxc-hrtf.los.hyhuawei.com:443?sni=25701b2b-tmm5c0-tvgkxc-hrtf.los.hyhuawei.com&insecure=1#hysteria2-1623483971
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.34.14:2095?encryption=none&security=none&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#vless-932037158
-hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@5333a9dd-tmm5c0-tonrqx-1khwf.los.hyhuawei.com:443?sni=5333a9dd-tmm5c0-tonrqx-1khwf.los.hyhuawei.com&insecure=1#hysteria2-1623484394
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?sni=whatsapp.com&insecure=1#hysteria2-722298603
-hysteria2://8b60d570-cbce-4791-b3e8-bcb80dd12ac0@uk-002.xiaoxiaobujidao.xyz:19443?sni=uk-002.xiaoxiaobujidao.xyz&insecure=0#hysteria2-1625725905
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com:443?sni=5e293df6-tmm5c0-tujecz-1qkeg.hk3.hyhuawei.com&insecure=1#hysteria2-1623484087
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@173.242.126.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=Ig8U3RBUF3X7KPeM13EvQwbqxkZMTKL4VHQrzJl1AWA&sid=ff052ade&type=tcp&headerType=none&host=www.amazon.com#vless-1625946124
-vless://717d03fa-4678-47a0-b27a-dff61a08ef83@5.223.18.177:80?encryption=none&security=none&fp=unsafe&type=ws&path=%2F#vless-1625935492
-vless://d90087c3-54f5-4283-a13f-615260c8b0c7@194.195.119.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp&headerType=none&host=googleapis.com#vless-1625941122
-vless://4b8a0930-1c36-4efe-b4fe-21f9ad97905c@5.223.19.211:80?encryption=none&security=none&type=ws&path=%2F#vless-1625428471
+hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21223?insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+vless://d9eb02da-a469-44a7-a393-ba1c5fbbc8c4@177.1.187.139:1984?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ruori.ai&fp=random&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_36%20t.me%2Frjsxrd
+vless://4dcfe8ff-b24c-4241-96a2-31fac7c87ad8@13.143.182.99:8448?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=5a7gJ2ukZ5NPECAks1GHvsg-lVDXVp0W6mCHQ00_cVw&sid=e02b44b0419d931c&type=xhttp&host=13.143.182.99&path=%2Fassets%2Fv2&mode=stream-one#%E7%BE%8E%E5%9B%BD_101411490%20t.me%2Frjsxrd
+vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?encryption=none&security=tls&sni=pl.bootless.ru&type=xhttp&path=%2Fapi%2Fv2%2Fstream&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%2312596%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@fi-p1.h1cloud.net:25633?encryption=none&security=reality&sni=www.icloud.com&fp=random&pbk=YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE&sid=200811f031ae7463&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF_15%20t.me%2Frjsxrd
+vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brointelengence.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE_%E8%8A%AC%E5%85%B0_38%20t.me%2Frjsxrd
+vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brointelengence.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none&host=brointelengence.com#%E5%B7%B4%E8%A5%BF_101411003%20t.me%2Frjsxrd
+vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.164.57.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none&host=amd.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20t.me%2Frjsxrd
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@31.58.95.10:443?encryption=none&security=reality&sni=de-gdd-1.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&authority=&serviceName=gdd-grpc&mode=gun#%E7%BE%8E%E5%9B%BD_101411080%20t.me%2Frjsxrd
 
 ```
 
