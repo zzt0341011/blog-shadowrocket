@@ -8,7 +8,7 @@ tags: ["Shadowrocket", "免费节点", "小火箭", "免费机场", "科学上�
 keywords: ["Shadowrocket免费节点", "小火箭免费节点", "免费订阅节点", "免费机场", "shadowrocket节点分享"]
 ---
 
-# Shadowrocket 免费节点分享（2026年9月22日更新）
+# Shadowrocket 免费节点分享（2026年10月22日更新）
 
 > **状态：当天实测可用**　·　**更新频率：每日手动收集更新**
 
