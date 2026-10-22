@@ -35,16 +35,15 @@ keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесп�
 
 ```text
 
-hysteria2://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21223?insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
-vless://d9eb02da-a469-44a7-a393-ba1c5fbbc8c4@177.1.187.139:1984?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ruori.ai&fp=random&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_36%20t.me%2Frjsxrd
-vless://4dcfe8ff-b24c-4241-96a2-31fac7c87ad8@13.143.182.99:8448?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=5a7gJ2ukZ5NPECAks1GHvsg-lVDXVp0W6mCHQ00_cVw&sid=e02b44b0419d931c&type=xhttp&host=13.143.182.99&path=%2Fassets%2Fv2&mode=stream-one#%E7%BE%8E%E5%9B%BD_101411490%20t.me%2Frjsxrd
-vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?encryption=none&security=tls&sni=pl.bootless.ru&type=xhttp&path=%2Fapi%2Fv2%2Fstream&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%2312596%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
-vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@fi-p1.h1cloud.net:25633?encryption=none&security=reality&sni=www.icloud.com&fp=random&pbk=YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE&sid=200811f031ae7463&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF_15%20t.me%2Frjsxrd
-vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brointelengence.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE_%E8%8A%AC%E5%85%B0_38%20t.me%2Frjsxrd
-vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brointelengence.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none&host=brointelengence.com#%E5%B7%B4%E8%A5%BF_101411003%20t.me%2Frjsxrd
-vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.164.57.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none&host=amd.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20t.me%2Frjsxrd
-vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@31.58.95.10:443?encryption=none&security=reality&sni=de-gdd-1.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&authority=&serviceName=gdd-grpc&mode=gun#%E7%BE%8E%E5%9B%BD_101411080%20t.me%2Frjsxrd
-
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20t.me%2Frjsxrd
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_18%20t.me%2Frjsxrd
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.54:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-2400ms-EUROPEAN-LEASE1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.90:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-307ms-EUROPEAN-LEASE1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.36:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-311ms-EUROPEAN-LEASE1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.18:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-356ms-EUROPEAN-LEASE1
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=login.mskvibe.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-London-409ms-Cloudflare%20Inc.
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.81:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-338ms-EUROPEAN-LEASE1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.45:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-369ms-EUROPEAN-LEASE1
 ```
 
 
