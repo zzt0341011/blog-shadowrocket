@@ -34,16 +34,16 @@ keywords: ["бесплатные ноды Shadowrocket", "Shadowrocket бесп�
 Инструкция по импорту — в разделе [Инструкция по импорту в Shadowrocket](#3-instrukciya-po-importu-v-shadowrocket) ниже.
 
 ```text
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20t.me%2Frjsxrd
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_18%20t.me%2Frjsxrd
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.54:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-2400ms-EUROPEAN-LEASE1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.90:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-307ms-EUROPEAN-LEASE1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.36:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-311ms-EUROPEAN-LEASE1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.18:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-356ms-EUROPEAN-LEASE1
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=login.mskvibe.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-London-409ms-Cloudflare%20Inc.
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.81:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-338ms-EUROPEAN-LEASE1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.45:19999#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B9-Milan-369ms-EUROPEAN-LEASE1
+trojan://humanity@162.159.253.41:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.27.203.207:443?allowInsecure=1&insecure=1&security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://5f704d93-7e7f-45b5-81f5-08db4a946220@104.17.70.206:8443?encryption=none&security=tls&sni=free.sahanwickramasinghe.com&fp=chrome&type=ws&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-mi-26.spbstudentlife.com&fp=chrome&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&sid=a7856800c2deb7b2&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz1.waspnest.space&fp=chrome&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://b2853d19-fada-44dc-8d44-967d1af122e0@190.93.244.166:2096?encryption=none&security=tls&sni=wQa3mioJJR8fYoZhIui--su3-UCG1GDx.pages.DEv&fp=chrome&type=ws&host=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&path=%2FeyJqdW5rIjoiWmFzVk5rd2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.18.89.52:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ```
 
 
