@@ -8,7 +8,7 @@ tags: ["Shadowrocket", "Free Nodes", "Free VPN", "Free Airport", "Proxy"]
 keywords: ["Shadowrocket free nodes", "free Shadowrocket nodes", "free subscription nodes", "free VPN provider", "Shadowrocket node sharing"]
 ---
 
-# Free Shadowrocket Nodes (Updated 22/10/2026)
+# Free Shadowrocket Nodes (Updated 02/11/2026)
 
 > **Status: Tested and working today**　·　**Update frequency: manually collected and updated daily**
 
@@ -34,16 +34,16 @@ Below are the free nodes collected and tested as working today. You can **copy a
 For import instructions, see the [Shadowrocket import tutorial](#3-shadowrocket-import-tutorial) below.
 
 ```text
-
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@144.31.34.146:2096?encryption=none&security=tls&sni=fi1.merky.one&alpn=http%2F1.1&fp=chrome&type=ws&host=fi1.merky.one&path=%2Fmky-ws-4f19c8a7#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40Raydikalx%20%7C%20D456F0
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@217.60.237.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=backend.sakhweb.fyi&fp=firefox&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40Raydikalx%20%7C%20F02A18
-vless://fffd4cb3-d5e2-4a11-936e-b8da5b240b8d@www.visa.com.hk:443?encryption=none&security=tls&sni=jp-osa.862400.xyz&fp=random&type=ws&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40Raydikalx%20%7C%20D0FB72
-vless://a500be68-4ff6-433b-9968-472be69fab14@netherlands02.azotvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands02.azotvpn.xyz&fp=safari&pbk=ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE&sid=fc70174007a393b4&spx=%2F&type=tcp&headerType=none#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40Raydikalx%20%7C%20A8C559
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@87.58.205.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=backend.mskvibe.fyi&fp=firefox&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20%40Raydikalx%20%7C%20910F19
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=login.moscowvibe.fyi&fp=firefox&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%20B3580C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1b3gyZTd4aWYxckNLT2lmZk9QdmliR2stS1ZYQ2s4dg%3D%3D@dns5.m3hrzd.ir:8044#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40Raydikalx%20%7C%2059E739
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?encryption=none&security=reality&sni=vk.ru&fp=firefox&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&type=grpc#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%5BSNI-RU%5D%20vk.ru%20t.me%2Frjsxrd
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%7C%20ITA%20t.me%2Frjsxrd
+trojan://humanity@162.159.253.41:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.27.203.207:443?allowInsecure=1&insecure=1&security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://5f704d93-7e7f-45b5-81f5-08db4a946220@104.17.70.206:8443?encryption=none&security=tls&sni=free.sahanwickramasinghe.com&fp=chrome&type=ws&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-mi-26.spbstudentlife.com&fp=chrome&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&sid=a7856800c2deb7b2&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz1.waspnest.space&fp=chrome&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://b2853d19-fada-44dc-8d44-967d1af122e0@190.93.244.166:2096?encryption=none&security=tls&sni=wQa3mioJJR8fYoZhIui--su3-UCG1GDx.pages.DEv&fp=chrome&type=ws&host=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&path=%2FeyJqdW5rIjoiWmFzVk5rd2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.18.89.52:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@165.215.250.14:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ```
 
 
