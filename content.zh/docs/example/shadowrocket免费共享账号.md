@@ -4,20 +4,30 @@
 
 ![shadowrocket小火箭-11002.jpg](https://shadowrocket.ink/img/shadowrocket小火箭-11001.jpg)
 
-### shadowrocket共享账号 下载完及时退出-2026-10-02
+### shadowrocket共享账号 下载完及时退出-2026-11-26
 
 - 账号必须从appstore登录，也就是应用商店，不能从设置登录
 - 登录以后，直接去下载shadowrocket，完了以后退出账号
 
 
 ```
-VedderEarlrbpjhf@gmail.com ---- 4PdNahXmqR
-1578009387@qq.com ---- xcP1Y2YA1k
-15312934006@163.com ---- FxYR3gGqvZ
-quodonnell@gmail.com ---- Dd10096da
-qgb477203@163.com ---- cZK7zCHkFF
-jyvqvepn475@163.com ---- TDvU2c8Yw9Qr
-13903700260@163.com ---- auNnFN11v3
+| 账号 (Email) | 密码 (Password) |
+| --- | --- |
+| ancq61nufio@gmail.com | Ma3ZMvZu2w |
+| 15545231839@163.com | gW63R9mAZY |
+| lambertruth282@gmail.com | 2fCnKFRFKR |
+| 15949487368@163.com | t5sh1EMPzK |
+| 13732068876@163.com | sVsj4nWJUG |
+| thanhuve@hotmail.com | eTu4eG86hr |
+| 15994156588@163.com | sd25kWXNMV |
+| aitianbao1984@163.com | CtBtd8up9R |
+| niuguadan31016@hotmail.com | nMF#Bhs0 |
+| 13973516499@163.com | P3H81ffEWX |
+| 18603998568@163.com | dc7YCWj2pv |
+| 13676850183@163.com | 5A6th7SRVA |
+| 15906149988@163.com | pcBRnD4bqq |
+| hy_19880315@126.com | B9px8CuvwG |
+
 ```
 
 
